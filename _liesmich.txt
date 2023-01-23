@@ -1,0 +1,26 @@
+=======================================================================
+# RECALBOX: System Super Nintendo Entertainment System (Heimkonsole)
+=======================================================================
+
+Kopiere deine Super Nintendo Entertainment System roms hier her.
+Unterstützte Dateierweiterungen sind: .bs .sfc .fig .zip .gd3 .7z .swc .gd7 .dx2 .st .bsx .smc
+
+Dieses System kann mit 7 emuliert werden.
+Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
+libretro-snes9x unterstüzt .smc .sfc .swc .fig .bs .st .7z .zip und ist  kompatibel mit Netplay.
+libretro-mesen_s unterstüzt .smc .sfc .swc .fig .bs .7z .zip und ist  kompatibel mit Netplay.
+libretro-snes9x2010 unterstüzt .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip und ist  kompatibel mit Netplay.
+libretro-snes9x2005 unterstüzt .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip und ist  kompatibel mit Netplay.
+libretro-snes9x2002 unterstüzt .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip und ist  kompatibel mit Netplay.
+libretro-bsnes unterstüzt .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip und ist  kompatibel mit Netplay.
+libretro-bsneshd unterstüzt .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip und ist  kompatibel mit Netplay.
+
+Geräteanforderungen:
+- Ein Controller ist pflicht
+- Ein Keyboard ist nutzlos
+- Eine Maus ist optional
+
+Dieses System erlaubt es, komprimierte Roms in .zip und oder .7z zu verwenden.
+Dabei handelt es sich aber nur um eine Archivdatei. Die Dateien innerhalb der .zip/.7z müssen mit den oben genannten Erweiterungen übereinstimmen.
+Jede .zip/.7z-Datei darf nur eine komprimierte Rom enthalten.
+
