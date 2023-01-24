@@ -1,207 +1,241 @@
 <?xml version="1.0"?>
 <gameList>
-	<game source="Recalbox" timestamp="1659465823">
-		<path>Pac-Man (USA) (Namco).zip</path>
-		<hash>15D202D8</hash>
-		<region>248</region>
-		<players>1-2</players>
-		<genreid>258</genreid>
-		<genre>Action / Labyrinth,Action</genre>
-		<publisher>Namco</publisher>
-		<developer>Namco</developer>
-		<releasedate>19931101T230000</releasedate>
-		<video>media/videos/Pac-man (namco) 350395771afe4cdbde1a8f61b8a58568.mp4</video>
-		<thumbnail>media/thumbnails/Pac-man (namco) 9ef8aaec739e7851b4ac6a885cea68ef.png</thumbnail>
-		<image>media/images/Pac-man (namco) 8126255bbac977e45314e711ea363b89.png</image>
-		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
-
-Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde).  One touch from any of these ghosts means a loss of life for Pac-Man.
-
-Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.
-
-Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</desc>
-		<rating>0.80000</rating>
-		<name>Pac-Man (Namco)</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465693">
-		<path>Donkey Kong Classics (USA, Europe).zip</path>
-		<hash>17EC0CC7</hash>
-		<lastplayed>19800101T010451</lastplayed>
-		<playcount>1</playcount>
-		<region>248</region>
-		<players>1-2</players>
-		<genreid>3840</genreid>
-		<genre>Compilation</genre>
-		<publisher>Nintendo</publisher>
-		<developer>Nintendo</developer>
-		<releasedate>19880930T230000</releasedate>
-		<video>media/videos/Donkey Kong Classics cfc900e642ac2b8a26bd8284478cbc98.mp4</video>
-		<thumbnail>media/thumbnails/Donkey Kong Classics c103f4a487ae4f541abc25a79b3359e5.png</thumbnail>
-		<image>media/images/Donkey Kong Classics d62c48e366bd26fc0b847865d2634d34.png</image>
-		<desc>Donkey Kong Classics features both the original Donkey Kong and Donkey Kong Jr. on a single cartridge. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
-		<favorite>true</favorite>
-		<rating>0.70000</rating>
-		<name>Donkey Kong Classics</name>
-	</game>
-	<game source="Recalbox" timestamp="1659485937">
-		<path>Super Mario Bros. (Japan, USA).zip</path>
-		<hash>3337EC46</hash>
-		<lastplayed>20220802T231722</lastplayed>
-		<playcount>2</playcount>
-		<region>11</region>
-		<players>1-2</players>
-		<genreid>257</genreid>
-		<genre>Platform</genre>
-		<publisher>Nintendo</publisher>
-		<developer>Nintendo</developer>
-		<releasedate>19850912T230000</releasedate>
-		<video>media/videos/Super Mario Bros. a374f136bd8dd6315693b879772bc4ce.mp4</video>
-		<thumbnail>media/thumbnails/Super Mario Bros. 6534f6de836049e91b1d84ee222042be.png</thumbnail>
-		<image>media/images/Super Mario Bros. c0eefb08fbda01f216029dcd6ea99fe6.png</image>
-		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.
-
-The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.
-
-Each level includes a bonus section filled with coins plus a shortcut through the level, plenty of bad buys and obstacles to get past, and an end of level flag, in which the higher the player grabs it, the more points are awarded to them. Certain levels also include warp points, which takes the player to higher levels.</desc>
-		<rating>0.80000</rating>
-		<name>Super Mario Bros.</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465437">
-		<path>Super Mario Bros. 3 (USA).zip</path>
-		<hash>85A79D9C</hash>
-		<lastplayed>20220802T231756</lastplayed>
-		<playcount>2</playcount>
-		<region>248</region>
-		<players>1-2</players>
-		<genreid>257</genreid>
-		<genre>Platform</genre>
-		<publisher>Nintendo</publisher>
-		<developer>Nintendo</developer>
-		<releasedate>19900211T230000</releasedate>
-		<video>media/videos/Super Mario Bros. 3 b352dba89115779a600ffcfb85ecaac7.mp4</video>
-		<thumbnail>media/thumbnails/Super Mario Bros. 3 d54788ffed6d84a92568c31bfaf1f69a.png</thumbnail>
-		<image>media/images/Super Mario Bros. 3 fa2a3df5ef2ac49c5d72157719d113c9.png</image>
-		<desc>Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. 
-
-This time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.
-It's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.
-
-Old and new power-ups abound in each level for the Mario Brothers, including the return of the Super Mushroom and Fire Flower, plus the new power-ups including the frog suit, the warp flute, and the most important of all, the leaf, which allows the player to fly and attack enemies with your tail.</desc>
-		<rating>0.85000</rating>
-		<name>Super Mario Bros. 3</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465808">
-		<path>Teenage Mutant Ninja Turtles (U) [h1].zip</path>
-		<hash>DF45210E</hash>
-		<region>248</region>
-		<genreid>257</genreid>
-		<genre>Platform</genre>
-		<publisher>Konami</publisher>
-		<developer>Konami</developer>
-		<releasedate>19890601T230000</releasedate>
-		<video>media/videos/Teenage Mutant Ninja Turtles dd08cc90d5e0ed3b3c46a936f7ebd41d.mp4</video>
-		<thumbnail>media/thumbnails/Teenage Mutant Ninja Turtles d7b9f3caa067ff3d12856565aa25e059.png</thumbnail>
-		<image>media/images/Teenage Mutant Ninja Turtles 6302a6aff8649649662925aa2569c8b9.png</image>
-		<desc>With April O'Neil held hostage by The Shredder's thugs, Bebop and Rocksteady, once again, it's up to the Teenage Mutant Ninja Turtles to come to her rescue!  Play as all four of the turtle heroes, rescue April, and then rescue your sensei Splinter from Mecha-Turtles clutches than go after The Shredder deep in the bowels of The Technodrome itself.
-
-Teenage Mutant Ninja Turtles is an action game based on the late eighties/early nineties cartoon series of the same name. Play as Leonardo, Michaelangelo, Donatello and Raphael (one turtle only, but the ability to swap between turtles at any time) as you save your friends and battle The Shredder and his cronies. There are no 'lives', as such - when you lose a turtle, he becomes 'captured', and you cannot use him again until you rescue him from a place hidden in the overworld.
-
-Gameplay takes place in two perspectives: a top-down view, which lets you run around and explore buildings, sewers and other places. When entering places from the top-down view, the perspective shifts to a side-scrolling view, where most of the battling takes place. In addition to each turtle's main weapon, sub-weapons (such as shuriken) can be acquired, to use at foes - these have a limited use.</desc>
-		<rating>0.64999</rating>
-		<name>Teenage Mutant Ninja Turtles</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465836">
-		<path>Ice Climber (USA, Europe).zip</path>
-		<hash>70044A74</hash>
-		<lastplayed>20220802T010000</lastplayed>
-		<playcount>1</playcount>
-		<region>248</region>
-		<players>1-2</players>
-		<genreid>257</genreid>
-		<genre>Platform,Action</genre>
-		<publisher>Nintendo</publisher>
-		<developer>Nintendo</developer>
-		<releasedate>19850930T230000</releasedate>
-		<video>media/videos/Ice Climber 421075cec83d0d3d3d8c7cf11cfe40a9.mp4</video>
-		<thumbnail>media/thumbnails/Ice Climber adeafb5174bea23e05c2b3f2795235ef.png</thumbnail>
-		<image>media/images/Ice Climber 86b9132920dea16ef6f1377be66427da.png</image>
-		<desc>In Ice Climber one or two players need to climb their way to the top of 32 different mountains. Each mountain is broken up into eight levels of platforms along with a bonus stage at the top. Attempting to stop you from making upward progress are different creatures ranging from polar bears to condors as well as treacherous landscapes with falling icicles, moving platforms, and icy floors. To help out, your only weapon is a mallet which can be used to knock out enemies as well as bust away bricks in the platforms to give you some room to jump up to the next level. When you finally reach the top, it's time to move on to the next, more difficult level.</desc>
-		<rating>0.60000</rating>
-		<name>Ice Climber</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465635">
-		<path>Dragon Warrior (USA).zip</path>
-		<hash>CAAF5C6B</hash>
+	<folder source="Recalbox" timestamp="0">
+		<path>Legend of Zelda, The - Ocarina of Time (USA)</path>
+		<name>Legend of Zelda, The - Ocarina of Time (USA)</name>
+	</folder>
+	<folder source="Recalbox" timestamp="0">
+		<path>Mario Kart 64 (USA)</path>
+		<name>Mario Kart 64 (USA)</name>
+	</folder>
+	<folder source="Recalbox" timestamp="0">
+		<path>Mario Party (USA)</path>
+		<name>Mario Party (USA)</name>
+	</folder>
+	<folder source="Recalbox" timestamp="0">
+		<path>Mario Party 2 (USA)</path>
+		<name>Mario Party 2 (USA)</name>
+	</folder>
+	<folder source="Recalbox" timestamp="0">
+		<path>Mario Party 3 (USA)</path>
+		<name>Mario Party 3 (USA)</name>
+	</folder>
+	<folder source="Recalbox" timestamp="0">
+		<path>Paper Mario (Europe) (En,Fr,De,Es) (1)</path>
+		<name>Paper Mario (Europe) (En,Fr,De,Es) (1)</name>
+	</folder>
+	<folder source="Recalbox" timestamp="0">
+		<path>Super Mario 64 (USA)</path>
+		<name>Super Mario 64 (USA)</name>
+	</folder>
+	<folder source="Recalbox" timestamp="0">
+		<path>Super Smash Bros. (USA)</path>
+		<name>Super Smash Bros</name>
+	</folder>
+	<folder source="Recalbox" timestamp="0">
+		<path>Superman (U) (M3) [!]</path>
+		<name>Superman (U) (M3) [!]</name>
+	</folder>
+	<folder source="Recalbox" timestamp="0">
+		<path>Star Wars - Rogue Squadron (USA)</path>
+		<name>Star Wars - Rogue Squadron (USA)</name>
+	</folder>
+	<game source="Recalbox" timestamp="1672717459">
+		<path>Legend of Zelda, The - Ocarina of Time (USA)/Legend of Zelda, The - Ocarina of Time (USA).n64</path>
+		<hash>2E72659E</hash>
 		<region>248</region>
 		<genreid>768</genreid>
 		<genre>Role playing games</genre>
 		<publisher>Nintendo</publisher>
-		<developer>Enix</developer>
-		<releasedate>19890731T230000</releasedate>
-		<video>media/videos/Dragon Warrior 756adc83704c90765d4f1958210927d7.mp4</video>
-		<thumbnail>media/thumbnails/Dragon Warrior 582bd074fbf0176a0bf3bacebf97aa1c.png</thumbnail>
-		<image>media/images/Dragon Warrior 16d22bfed51258c749d5332e3a5d10ee.png</image>
-		<desc>Dragon Warrior is the first famous console RPG. You assume the role of a descendant of Erdrick, a brave warrior of the past. Once upon a time, Erdrick defeated the evil Dragonlord with the help of the Ball of Light. Now, Dragonlord stole the Ball of Light, and your mission is to recover it and to restore peace in the world.
-
-In Dragon Warrior, you move your character around in a top-down world. In cities and palaces you can talk to people, rest in inns and buy stuff in shops. There's a variety of weapons, equipment and armor to buy. 
-
-When wandering around in the wilderness, you occasionally encounter enemies, and fight them from 1st person perspective. Combat is turn based: you select menu options while fighting - you can attack with your weapon, cast a spell (using up some of your magic energy), use and item or try to run. Killing monsters gives you experience, and, as is typical for RPGs, you level up and improve your stats when you gain enough experience. 
-
-Like in later RPGs, you have limited hit points, lose them when you are attacked by enemies, and die when you run out of them. When your character dies in a battle, he is automatically restored in a nearby town.</desc>
-		<rating>0.70000</rating>
-		<name>Dragon Warrior</name>
+		<developer>Nintendo</developer>
+		<releasedate>19981122T230000</releasedate>
+		<video>media/videos/Legend Of Zelda - Ocarina Of Time The 33396aac9efda5dcd349e1b13dbadc7a.mp4</video>
+		<thumbnail>media/thumbnails/Legend Of Zelda - Ocarina Of Time The 5f8503adfe5ca917101bc18b83269b24.png</thumbnail>
+		<image>media/images/Legend Of Zelda - Ocarina Of Time The 40d0d3650809c0ddcaf3d72a72be35db.png</image>
+		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule. He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce. As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes. Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain. Before you complete this epic quest, you'll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.</desc>
+		<rating>0.95000</rating>
+		<name>The Legend of Zelda : Ocarina of Time</name>
 	</game>
-	<game source="Recalbox" timestamp="1659465500">
-		<path>Q-bert (U).zip</path>
-		<hash>19AD4071</hash>
-		<lastplayed>20220802T005850</lastplayed>
-		<playcount>1</playcount>
+	<game source="Recalbox" timestamp="1672717467">
+		<path>Mario Kart 64 (USA)/Mario Kart 64 (USA).n64</path>
+		<hash>2BCEE11C</hash>
 		<region>248</region>
-		<players>1-2</players>
-		<genreid>2816</genreid>
-		<genre>Puzzle-Game,Action</genre>
-		<publisher>Ultra Games</publisher>
-		<developer>Konami</developer>
-		<releasedate>19890201T230000</releasedate>
-		<video>media/videos/Qbert c0b2bef382bb2f5e2234f9c8fa19730f.mp4</video>
-		<thumbnail>media/thumbnails/Qbert 624718fde7acee55fc5ad5044d651e99.png</thumbnail>
-		<image>media/images/Qbert 61bc345d2157c677fc41738923dc61cb.png</image>
-		<desc>Q*bert is a conversion of the popular arcade game. The goal is to change all of the tiles on a pyramid to the target color. To do this you guide Q*bert around the pyramid, and every tile he hops on will change color. On early levels, a single hop will change the tile to the desired color, but on later levels you may need to hop on a tile multiple times or even avoid hopping on a tile multiple times! Trying to stop Q*bert are many different creatures which wander around the board, including Coily the snake, Slick and Sam, and falling balls. On the edge of the board are floating discs; if Q*bert jumps on one of these discs when the snake is in pursuit, the snake will fall off  the board while Q*bert is safely transported to the top.</desc>
-		<rating>0.80000</rating>
-		<name>Q*bert</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465866">
-		<path>Super Mario World.zip</path>
-		<hash>82392F0D</hash>
-		<region>11</region>
-		<genreid>257</genreid>
-		<genre>Platform</genre>
-		<publisher>J.Y. Company</publisher>
-		<developer>Hummer Team</developer>
-		<releasedate>19941231T230000</releasedate>
-		<video>media/videos/Super Mario World 54ca2004a518a4c8d8c3662ff0bd4311.mp4</video>
-		<thumbnail>media/thumbnails/Super Mario World 672924cf9428b9a4046e2ac80e4dcb20.png</thumbnail>
-		<image>media/images/Super Mario World 13613d88a9c20d06d1630d3dde5184b2.png</image>
-		<desc>Super Mario World is a bootleg port of the SNES launch title of the same name, developed by Hummer Team and released in 1995. This is one of the more well-known examples of pirate ports to the NES, as it comparatively manages to retain most of the elements that defined the SNES original without sacrificing too much quality.</desc>
-		<rating>0.55000</rating>
-		<name>Super Mario World</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465596">
-		<path>Excitebike (Japan, USA).zip</path>
-		<hash>2BB33C69</hash>
-		<region>248</region>
+		<players>1-4</players>
 		<genreid>1537</genreid>
-		<genre>Race, Driving,Sports</genre>
+		<genre>Sports,Race, Driving</genre>
 		<publisher>Nintendo</publisher>
 		<developer>Nintendo</developer>
-		<releasedate>19851017T230000</releasedate>
-		<video>media/videos/Excitebike b28df5031cf9d6b2a9ca24be0ae23e59.mp4</video>
-		<thumbnail>media/thumbnails/Excitebike 422ed50d8f182078631f895bc2de87b2.png</thumbnail>
-		<image>media/images/Excitebike ba90e1a7c672550f1fdd8c6689c839b7.png</image>
-		<desc>Race by yourself against the clock or compete with other motocross riders on 5 tracks full of long straights, large jumps and obstacles to win the Excitebike championship.
+		<releasedate>19970209T230000</releasedate>
+		<video>media/videos/Mario Kart 64 238f6f76b1913930482662430075bfc2.mp4</video>
+		<thumbnail>media/thumbnails/Mario Kart 64 f4d5321bdc58beb32ac2ff6e452d1b21.png</thumbnail>
+		<image>media/images/Mario Kart 64 10323e6a5c131849e31af39e847c1dd1.png</image>
+		<desc>Mario Kart 64 races eight familiar faces, including Mario, Bowser and Yoshi, on four progressively tougher four-track circuits. Wide curves and gentle banks mark the Mushroom Cup tracks. Your commute gets notably tougher on the Flower Cup, though. The player will have to dodge semis rumbling on Toad's Turnpike and bounding boulders on fogbound Choco Mountain! Star Cup tracks range from the icy surfaces of Sherbet Land to the lava lakes of Bowser's Castle. The true test of karting competence, though, comes on the four tracks in Special Cup. Zip through the dark caves and green hillsides of Donkey Kong's Jungle Parkway, cling to the sheer cliffs of Yoshi Valley and hustle over haunted Banshee Boardwalk before tackling the longest track in the game: neon-lit Rainbow Road. 
 
-Create your own tracks by placing jumps and obstacles of all different sizes and shapes on the track and choosing how many laps each race will have, then race against the clock or other riders to see how your track fares in competition.</desc>
-		<rating>0.70000</rating>
-		<name>Excitebike</name>
+The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc. You can gain even more speed by mastering the power slide technique or grabbing Super Star power-ups. Each kart has distinctive handling, acceleration and top speed capabilities. Light karts like Princess's smoothly steer through tight corners, but run the constant risk of getting flattened by heavy karts, like Donkey Kong's. Shells that you fire at rival racers, Bananas that make them skid out and Lightning Bolts that make them small and very slow are just a few of the game's unique power-ups.</desc>
+		<rating>0.80000</rating>
+		<name>Mario Kart 64</name>
+	</game>
+	<game source="Recalbox" timestamp="1672717459">
+		<path>Mario Party (USA)/Mario Party (USA).n64</path>
+		<hash>CBBDDA1E</hash>
+		<region>248</region>
+		<players>1-4</players>
+		<genreid>2048</genreid>
+		<genre>Board game,Strategy,Action</genre>
+		<publisher>Nintendo</publisher>
+		<developer>Hudson</developer>
+		<releasedate>19990207T230000</releasedate>
+		<video>media/videos/Mario Party 617c831e01bfc270e875247a31334a69.mp4</video>
+		<thumbnail>media/thumbnails/Mario Party 45576e57fdcd874b4d0806b7e36c4fcc.png</thumbnail>
+		<image>media/images/Mario Party aed85fea4a06503ca697187f31aa2c1f.png</image>
+		<desc>You know Mario can jump. You know he can kick Bowser's tail from here to the moon, but we bet you didn't realize that Mario is the biggest party animal on the face of the Earth. Nintendo is throwing the most insane bash to ever hit the N64, and you're invited. For the first time, you'll catch a glimpse of how Mario celebrates all of the victories he's had over the years. 
+
+Mario Party is unlike any other game for the N64, and it just might be the best party game to ever hit the system. Mario Party is designed for 1 to 4 players, but it's not really a party unless you're playing with your pals. The festivities are based on a board game format, right down to the fact that players must roll a die to determine how many spaces to move. The fun starts when players land on different squares, because each space holds one of more than fifty different mini-games. These quick competitions determine who will earn coins and stars, and who will go home empty handed. 
+
+ The mini-games are spread over eight different game boards, all of which are not immediately available. Some of the games pit every man or princess against the others, some are two-on-two, and others are even three against one. The games are simple, but remarkably fun to play. One challenge is loosely based on "Simon Says," another involves a two-on-two bobsled race, and one crazy game makes one player attempt to cross a rope while the other three do their best to shake the player off. You'll find skill games, racing games, puzzle games --basically any type of challenge you could imagine. 
+
+A good portion of the actual game boards are animated, with hidden dangers and special challenges scattered everywhere. Mario, Luigi, Princess Peach, Donkey Kong, Bowser, Yoshi, and Wario are all invited to the party, and each character has his or her own game board. 
+
+Mario Party is fun for only one player, but to get the most out of this party-in-a-pak, you should play with three other friends. It's definitely the kind of game that will keep you up till the wee hours of the morning, so you might want to start catching up on your sleep right away.</desc>
+		<rating>0.75000</rating>
+		<name>Mario Party</name>
+	</game>
+	<game source="Recalbox" timestamp="1672717459">
+		<path>Mario Party 2 (USA)/Mario Party 2 (USA).n64</path>
+		<hash>9463D57A</hash>
+		<region>248</region>
+		<players>1-4</players>
+		<genreid>2048</genreid>
+		<genre>Board game,Action</genre>
+		<publisher>Nintendo</publisher>
+		<developer>Hudson</developer>
+		<releasedate>20000123T230000</releasedate>
+		<video>media/videos/Mario Party 2 856067f6bc03333887eb18485431ffb6.mp4</video>
+		<thumbnail>media/thumbnails/Mario Party 2 5aee5b75936550bbaff36ed0f1cdbe05.png</thumbnail>
+		<image>media/images/Mario Party 2 9bcf9b9b08d6581b232562035e52fb3d.png</image>
+		<desc>Mario and a range of well known Nintendo characters, including Yoshi, Bowser, Luigi, and Wario return for some more party action. 
+
+The second edition includes 5 new boards, each with a specific theme, such as Space Land, Western Land, Horror Land, and Mystery Land. Each board includes unique attributes in relation to the theme, but the main goal is the same: complete the board game over a certain amount of moves and be the player to have the most coins and/or stars at the end. 
+
+The single player story mode allows one person and 3 CPU controlled players to play each board. Once you play a specific mini-game (64 in all), they become available to purchase using the coins you collected in your games to play anytime. Multiplayer allows 2 to 4 people to play the game.</desc>
+		<rating>0.80000</rating>
+		<name>Mario Party 2</name>
+	</game>
+	<game source="Recalbox" timestamp="1672717459">
+		<path>Mario Party 3 (USA)/Mario Party 3 (USA).n64</path>
+		<hash>7A0987DD</hash>
+		<region>248</region>
+		<players>1-4</players>
+		<genreid>2048</genreid>
+		<genre>Board game,Action,Casual Game</genre>
+		<publisher>Nintendo</publisher>
+		<developer>Hudson</developer>
+		<releasedate>20010506T230000</releasedate>
+		<video>media/videos/Mario Party 3 eaa615b3a44d8cd41e7ad2a66c2b014d.mp4</video>
+		<thumbnail>media/thumbnails/Mario Party 3 be9abb35451c62dfd6fbd04c69bb3050.png</thumbnail>
+		<image>media/images/Mario Party 3 3fc7bd484a069b190408eaeca0d5bc0d.png</image>
+		<desc>The series continues with a set of 70 new mini-games.  Play in the new single-player Story mode, or bring in some friends for Party mode.  Four player games and a new two player mode are also available for play.
+
+In Battle Royale mode (four player), you race around different boards to earn the most stars and coins.  At the end of each round, you face it off in one of the mini-games, which can be chicken chases, snowball fights, or various other competitions.
+
+Duel mode allows play between just two people.  You still race around the board, but mini-games are only played when you land on a specific square.  Another play change is the addition of another character for your team, allowing tag team-style action in the game.
+
+Story mode is essentially the same as a Battle Royale, except your opponents are played by the computer.</desc>
+		<rating>0.75000</rating>
+		<name>Mario Party 3</name>
+	</game>
+	<game source="Recalbox" timestamp="1672717459">
+		<path>Paper Mario (Europe) (En,Fr,De,Es) (1)/Paper Mario (Europe) (En,Fr,De,Es).n64</path>
+		<hash>8C1804C9</hash>
+		<region>83</region>
+		<genreid>768</genreid>
+		<genre>Role playing games</genre>
+		<publisher>Nintendo</publisher>
+		<developer>Intelligent Systems</developer>
+		<releasedate>20011004T230000</releasedate>
+		<video>media/videos/Paper Mario 94ce2f6af382e85461d7bb3d09223a9d.mp4</video>
+		<thumbnail>media/thumbnails/Paper Mario a6b6422578dd0002f81cd8852044a3bc.png</thumbnail>
+		<image>media/images/Paper Mario b4cbb8d16db5f8d5121e7fcddf8d1f67.png</image>
+		<desc>Mario pals around in an all-new action adventure! Mario's back in his first adventure since Super Mario 64, and this time, Bowser's bent on preventing a storybook ending. When Princess Peach is kidnapped, Mario plots to rescue the seven Star Spirits and rid the Mushroom Kingdom of Koopa's cruel cohorts. As he travels from the tropical jungles of Lavalava Island to the frosty heights of Shiver Mountain, he'll meet up with seven all-new companions... and he'll need help from each one or there'll be no happily ever after.</desc>
+		<rating>0.80000</rating>
+		<name>Paper Mario</name>
+	</game>
+	<game source="Recalbox" timestamp="1672717467">
+		<path>Super Mario 64 (USA)/Super Mario 64 (USA).n64</path>
+		<hash>42C43204</hash>
+		<region>248</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>Nintendo</publisher>
+		<developer>Nintendo</developer>
+		<releasedate>19960925T230000</releasedate>
+		<video>media/videos/Super Mario 64 af85c6794cd68f7f8855831df38da334.mp4</video>
+		<thumbnail>media/thumbnails/Super Mario 64 a769fc56aea83dec07c8964d0f476767.png</thumbnail>
+		<image>media/images/Super Mario 64 8afe94069ac0ab51f29d269cf58905b6.png</image>
+		<desc>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis - Bowser, King of the Koopas!</desc>
+		<rating>0.80000</rating>
+		<name>Super Mario 64</name>
+	</game>
+	<game source="Recalbox" timestamp="1672717455">
+		<path>Super Smash Bros. (USA)/Super Smash Bros. (USA).n64</path>
+		<hash>DD2DF6D9</hash>
+		<lastplayed>20220802T020553</lastplayed>
+		<playcount>1</playcount>
+		<region>248</region>
+		<players>1-4</players>
+		<genreid>262</genreid>
+		<genre>Fight</genre>
+		<publisher>Nintendo</publisher>
+		<developer>HAL Laboratory</developer>
+		<releasedate>19990425T230000</releasedate>
+		<video>media/videos/Super Smash Bros. 05f5fc89cf4eb9e7a0c48bbecc2d520d.mp4</video>
+		<thumbnail>media/thumbnails/Super Smash Bros. f01fa348595031d87b9b523b372b0ed8.png</thumbnail>
+		<image>media/images/Super Smash Bros. 0ce297b99db950790e89c1de076264d0.png</image>
+		<desc>Super Smash Brothers takes familiar Nintendo characters such as Mario, Kirby and Donkey Kong, and puts them into battle! There are 8 fully-interactive landscapes, with one for each character and noticeable links to their games. Controls are analogue-based, with different moves executed depending on the direction and how firmly the stick is pressed. Items like baseball bats, Bob-ombs, and healing items drop into the arenas at random, aiding any nearby characters than can make use of them. The game uses a fixed viewpoint which scrolls, although characters are rendered in 3D.
+
+The one-player mode has 14 stages to work through. Up to 4 human players can do battle at once, with team play as well as all-against-all action. Hidden characters are thrown in for good measure, as are bonus rounds, and a battle to the end with a giant hand (yeah, you read right!).
+
+Playable characters include: Captain Falcon* (F-Zero), Donkey Kong, Fox (Star Fox), Kirby, Jigglypuff* (Pokémon), Link (Legend of Zelda), Luigi* (Mario), Mario, Ness* (Mother/EarthBound), Pikachu (Pokémon), Samus (Metroid) and Yoshi (Mario)
+
+*character must be unlocked first</desc>
+		<rating>0.80000</rating>
+		<name>Super Smash Bros.</name>
+	</game>
+	<game source="Recalbox" timestamp="1672717455">
+		<path>Superman (U) (M3) [!]/Superman (U) (M3) [!].z64</path>
+		<hash>437E3677</hash>
+		<lastplayed>20220802T020740</lastplayed>
+		<playcount>1</playcount>
+		<region>248</region>
+		<players>1-4</players>
+		<genreid>256</genreid>
+		<genre>Action,Action / Adventure</genre>
+		<publisher>Titus</publisher>
+		<developer>Titus</developer>
+		<releasedate>19990530T230000</releasedate>
+		<video>media/videos/Superman 8673fa9c3204a8bdfad340c84eb97560.mp4</video>
+		<thumbnail>media/thumbnails/Superman 20960d1956f2872f29180fceffb5f9b9.png</thumbnail>
+		<image>media/images/Superman 965d6128ce221cd5dd46ce3a972ba02a.png</image>
+		<desc>Lois Lane and Jimmy Olsen have disappeared - they've been kidnapped by the malevolent powers of Lex Luthor and Braniac, who have brought them into a virtual reality version of Metropolis. Superman must come to the rescue! The Man of Steel must work through this virtual dimension and find a way to conquer the evil masterminds that created it. Experience the incredible powers of Superman first-hand as you battle to rescue Lois Lane from the clutches of Metallo, then attempt to free Jimmy Olsen from the steel grip of Darkseid. Race into outer space to face Braniac's evil alien technology. Above all else, destroy Luthor's deadly dream of a virtual reality Metropolis!</desc>
+		<rating>0.15000</rating>
+		<name>Superman : The New Superman Adventures</name>
+	</game>
+	<game source="Recalbox" timestamp="1672717459">
+		<path>Star Wars - Rogue Squadron (USA)/Star Wars - Rogue Squadron (USA).n64</path>
+		<hash>2D6FA165</hash>
+		<region>248</region>
+		<genreid>256</genreid>
+		<genre>Shooter</genre>
+		<publisher>Nintendo</publisher>
+		<developer>Factor 5</developer>
+		<releasedate>19981116T230000</releasedate>
+		<image>media/images/Star Wars - Rogue Squadron ae8382732fd173b31bf5bdfda2a9ecf3.png</image>
+		<desc>Fly against the evil Empire! As Luke Skywalker, co-founder of the Rebel Alliance's elite Rogue Squadron, you must combat the evil Galactic Empire! Engage in intense, fast-paced planetary air-to-ground and air-to-air missions - dogfights, search and destroy, reconnaissance, bombing runs, rescue assignments and more! Pilot X-wings, Y-wings, A-wings, V-wings and Snowspeeders with powerful weapons in over 15 missions battling TIE fighters, TIE bombers, Imperial shuttles, AT-AT walkers, AT-STs and other challenging foes.</desc>
+		<rating>0.90000</rating>
+		<name>Star Wars : Rogue Squadron</name>
+	</game>
+	<game source="Recalbox" timestamp="1672717500">
+		<path>LEGO Harry Potter - Years 1-4 (USA).zip</path>
+		<name>LEGO Harry Potter - Years 1-4 (USA)</name>
 	</game>
 </gameList>

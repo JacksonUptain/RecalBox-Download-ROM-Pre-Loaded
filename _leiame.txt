@@ -1,18 +1,16 @@
 =======================================================================
-# RECALBOX: Sistema Nintendo Entertainment System (Console caseiro)
+# RECALBOX: Sistema Nintendo 64 (Console caseiro)
 =======================================================================
 
-Copie suas roms de Nintendo Entertainment System aqui.
-As extensões suportadas são: .unf .nes .zip .7z .unif
+Copie suas roms de Nintendo 64 aqui.
+As extensões suportadas são: .z64 .v64 .zip .7z .n64
 
-Esse sistema podem ser emulados usando 6 emuladores.
+Esse sistema podem ser emulados usando 4 emuladores.
 Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
-libretro-nestopia suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
-libretro-fceumm suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
-libretro-fceunext suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
-libretro-quicknes suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
-libretro-mesen suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
-libretro-fbneo suporta arquivos de .zip .7z e  é compatível com netplay/jogo em rede.
+mupen64plus-glide64mk2 suporta arquivos de .n64 .v64 .z64 e NÃO é compatível com netplay/jogo em rede.
+libretro-parallel_n64 suporta arquivos de .n64 .v64 .z64 .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-mupen64plus_next suporta arquivos de .n64 .v64 .z64 .zip .7z e NÃO é compatível com netplay/jogo em rede.
+mupen64plus-rice suporta arquivos de .n64 .v64 .z64 e NÃO é compatível com netplay/jogo em rede.
 
 Dispositivo necessário:
 - Controle é obrigatório

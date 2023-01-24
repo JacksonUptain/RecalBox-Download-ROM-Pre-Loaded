@@ -1,18 +1,16 @@
 =======================================================================
-# RECALBOX: System Nintendo Entertainment System (Heimkonsole)
+# RECALBOX: System Nintendo 64 (Heimkonsole)
 =======================================================================
 
-Kopiere deine Nintendo Entertainment System roms hier her.
-Unterstützte Dateierweiterungen sind: .unf .nes .zip .7z .unif
+Kopiere deine Nintendo 64 roms hier her.
+Unterstützte Dateierweiterungen sind: .z64 .v64 .zip .7z .n64
 
-Dieses System kann mit 6 emuliert werden.
+Dieses System kann mit 4 emuliert werden.
 Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
-libretro-nestopia unterstüzt .nes .unf .unif .zip .7z und ist NICHT kompatibel mit Netplay.
-libretro-fceumm unterstüzt .nes .unf .unif .zip .7z und ist NICHT kompatibel mit Netplay.
-libretro-fceunext unterstüzt .nes .unf .unif .zip .7z und ist NICHT kompatibel mit Netplay.
-libretro-quicknes unterstüzt .nes .unf .unif .zip .7z und ist NICHT kompatibel mit Netplay.
-libretro-mesen unterstüzt .nes .unf .unif .zip .7z und ist NICHT kompatibel mit Netplay.
-libretro-fbneo unterstüzt .zip .7z und ist  kompatibel mit Netplay.
+mupen64plus-glide64mk2 unterstüzt .n64 .v64 .z64 und ist NICHT kompatibel mit Netplay.
+libretro-parallel_n64 unterstüzt .n64 .v64 .z64 .zip .7z und ist NICHT kompatibel mit Netplay.
+libretro-mupen64plus_next unterstüzt .n64 .v64 .z64 .zip .7z und ist NICHT kompatibel mit Netplay.
+mupen64plus-rice unterstüzt .n64 .v64 .z64 und ist NICHT kompatibel mit Netplay.
 
 Geräteanforderungen:
 - Ein Controller ist pflicht

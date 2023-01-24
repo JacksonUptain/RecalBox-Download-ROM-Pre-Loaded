@@ -1,18 +1,16 @@
 =======================================================================
-# RECALBOX: Système Nintendo Entertainment System (Console de Salon)
+# RECALBOX: Système Nintendo 64 (Console de Salon)
 =======================================================================
 
-Copiez vos roms Nintendo Entertainment System ici.
-Les extensions supportées sont: .unf .nes .zip .7z .unif
+Copiez vos roms Nintendo 64 ici.
+Les extensions supportées sont: .z64 .v64 .zip .7z .n64
 
-Ce système peut être émulé par 6 émulateurs differents.
+Ce système peut être émulé par 4 émulateurs differents.
 Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
-libretro-nestopia supporte des fichiers de type .nes .unf .unif .zip .7z et n'est pas compatible netplay.
-libretro-fceumm supporte des fichiers de type .nes .unf .unif .zip .7z et n'est pas compatible netplay.
-libretro-fceunext supporte des fichiers de type .nes .unf .unif .zip .7z et n'est pas compatible netplay.
-libretro-quicknes supporte des fichiers de type .nes .unf .unif .zip .7z et n'est pas compatible netplay.
-libretro-mesen supporte des fichiers de type .nes .unf .unif .zip .7z et n'est pas compatible netplay.
-libretro-fbneo supporte des fichiers de type .zip .7z et est compatible netplay.
+mupen64plus-glide64mk2 supporte des fichiers de type .n64 .v64 .z64 et n'est pas compatible netplay.
+libretro-parallel_n64 supporte des fichiers de type .n64 .v64 .z64 .zip .7z et n'est pas compatible netplay.
+libretro-mupen64plus_next supporte des fichiers de type .n64 .v64 .z64 .zip .7z et n'est pas compatible netplay.
+mupen64plus-rice supporte des fichiers de type .n64 .v64 .z64 et n'est pas compatible netplay.
 
 Périphériques supportés :
 - Les manettes sont obligatoires !
@@ -25,4 +23,4 @@ Les fichiers contenus dans les .zip/.7z doivent correspondre aux extensions cit�
 De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Consultez la documentation à cette adresse :
-https://wiki.recalbox.com/fr/emulators/consoles/nintendo-entertainment-system
+https://wiki.recalbox.com/fr/emulators/consoles/nintendo-64
