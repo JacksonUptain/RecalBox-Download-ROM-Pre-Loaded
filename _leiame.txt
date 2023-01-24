@@ -1,24 +1,23 @@
 =======================================================================
-# RECALBOX: Sistema Super Nintendo Entertainment System (Console caseiro)
+# RECALBOX: Sistema Nintendo Entertainment System (Console caseiro)
 =======================================================================
 
-Copie suas roms de Super Nintendo Entertainment System aqui.
-As extensões suportadas são: .bs .sfc .fig .zip .gd3 .7z .swc .gd7 .dx2 .st .bsx .smc
+Copie suas roms de Nintendo Entertainment System aqui.
+As extensões suportadas são: .unf .nes .zip .7z .unif
 
-Esse sistema podem ser emulados usando 7 emuladores.
+Esse sistema podem ser emulados usando 6 emuladores.
 Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
-libretro-snes9x suporta arquivos de .smc .sfc .swc .fig .bs .st .7z .zip e  é compatível com netplay/jogo em rede.
-libretro-mesen_s suporta arquivos de .smc .sfc .swc .fig .bs .7z .zip e  é compatível com netplay/jogo em rede.
-libretro-snes9x2010 suporta arquivos de .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip e  é compatível com netplay/jogo em rede.
-libretro-snes9x2005 suporta arquivos de .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip e  é compatível com netplay/jogo em rede.
-libretro-snes9x2002 suporta arquivos de .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip e  é compatível com netplay/jogo em rede.
-libretro-bsnes suporta arquivos de .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip e  é compatível com netplay/jogo em rede.
-libretro-bsneshd suporta arquivos de .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip e  é compatível com netplay/jogo em rede.
+libretro-nestopia suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-fceumm suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-fceunext suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-quicknes suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-mesen suporta arquivos de .nes .unf .unif .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-fbneo suporta arquivos de .zip .7z e  é compatível com netplay/jogo em rede.
 
 Dispositivo necessário:
 - Controle é obrigatório
 - Teclado é desnecessário
-- Mouse é opcional
+- Mouse é desnecessário
 
 Este sistema permite usar roms compactadas em .zip e/ou .7z.
 Mas apenas como forma de armazenamento. Os arquivos dentro do .zip/.7z devem corresponder às extensões mencionadas acima.

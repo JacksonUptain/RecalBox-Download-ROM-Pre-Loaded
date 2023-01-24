@@ -1,611 +1,207 @@
 <?xml version="1.0"?>
 <gameList>
-	<game source="Recalbox" timestamp="1659465513">
-		<path>Aladdin (USA).zip</path>
-		<hash>124D8E4D</hash>
-		<lastplayed>20220808T025224</lastplayed>
-		<playcount>3</playcount>
-		<region>248</region>
-		<genreid>257</genreid>
-		<genre>Platform</genre>
-		<publisher>Capcom</publisher>
-		<developer>Capcom</developer>
-		<releasedate>19931101T230000</releasedate>
-		<video>media/videos/Aladdin 3f8340e1aa4d962912ae723ef28b2469.mp4</video>
-		<thumbnail>media/thumbnails/Aladdin 1d9bf7db5603f4ac174976da74d32b90.png</thumbnail>
-		<image>media/images/Aladdin 5a0190938aa67b2b20d0fa7e5942b105.png</image>
-		<desc>For years, Jafar, the Sultan's evil advisor has sought a magic treasure - a single lamp that holds the key to the greatest power in the world. With this goal in sight, Jafar learns that only one person in the world can claim the magic lamp from the dreaded Cave of Wonders - one whose rags hide a heart that is pure - a diamond in the rough!
-Join Aladdin and his pet monkey Abu, as they race through the marketplace toward their date with destiny. Watch as Jafar tricks our hero and his friend into retrieving the lamp from the dangerous Cave of Wonders. But Aladding and Abu outwit Jafar, releading the power of a wacky blue Genie! Aladding will have the chance to spoil Jafar's devious plans and win the hand of the beautiful princess Jasmine. But it will take more than magic to make his wishes come true...</desc>
-		<favorite>true</favorite>
-		<rating>0.80000</rating>
-		<name>Aladdin</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465709">
-		<path>Lion King, The (USA).zip</path>
-		<hash>C8FBFAA8</hash>
-		<lastplayed>19800101T010811</lastplayed>
-		<playcount>1</playcount>
-		<region>248</region>
-		<genreid>257</genreid>
-		<genre>Action,Platform</genre>
-		<publisher>Virgin</publisher>
-		<developer>Westwood Studios</developer>
-		<releasedate>19941031T230000</releasedate>
-		<video>media/videos/Lion King The 477f8090c7c58b0824a782af2232d6af.mp4</video>
-		<thumbnail>media/thumbnails/Lion King The 35963da02d499e4687178edc322be9fc.png</thumbnail>
-		<image>media/images/Lion King The 4ae125db5515572c6055c51a16b5b903.png</image>
-		<desc>Young Simba just can't wait to be king. His father is the current King of the Savannah and the young prince is able to frolic the lands at will; jumping on and around other subjects of this animal kingdom. When Simba's father, King Mufasa, is killed and his evil brother Scar takes over the kingdom, Simba is banished from the lands of his birthright and has to grow up fast, honing his skills, for the day of his return.
-
-The Lion King, based on the famous Disney movie, is a platform game where you control Simba - initially as a young cub, and later as an adult lion. The plot of the game follows the plot of the movie. Each of the levels represents a part of the movie. 
-
-As young Simba, you can fight various beasts, such as lizards, by jumping on them. You can also roar to scare some creatures into submission, though every time you roar, you have to wait for your "roar meter" to charge. 
-
-As an adult lion, you can still roar and jump, but now you fight enemies by slashing at them with your claws (if you're skillful enough, you can also grab them and toss them off the screen). 
-
-The game features no in-game save function, and it needs to be replayed from the beginning every time.</desc>
-		<favorite>true</favorite>
-		<rating>0.75000</rating>
-		<name>The Lion King</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465787">
-		<path>Super Mario World (USA).zip</path>
-		<hash>B19ED489</hash>
-		<lastplayed>20220801T184243</lastplayed>
-		<playcount>2</playcount>
+	<game source="Recalbox" timestamp="1659465823">
+		<path>Pac-Man (USA) (Namco).zip</path>
+		<hash>15D202D8</hash>
 		<region>248</region>
 		<players>1-2</players>
-		<genreid>257</genreid>
-		<genre>Platform</genre>
+		<genreid>258</genreid>
+		<genre>Action / Labyrinth,Action</genre>
+		<publisher>Namco</publisher>
+		<developer>Namco</developer>
+		<releasedate>19931101T230000</releasedate>
+		<video>media/videos/Pac-man (namco) 350395771afe4cdbde1a8f61b8a58568.mp4</video>
+		<thumbnail>media/thumbnails/Pac-man (namco) 9ef8aaec739e7851b4ac6a885cea68ef.png</thumbnail>
+		<image>media/images/Pac-man (namco) 8126255bbac977e45314e711ea363b89.png</image>
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
+
+Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde).  One touch from any of these ghosts means a loss of life for Pac-Man.
+
+Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.
+
+Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</desc>
+		<rating>0.80000</rating>
+		<name>Pac-Man (Namco)</name>
+	</game>
+	<game source="Recalbox" timestamp="1659465693">
+		<path>Donkey Kong Classics (USA, Europe).zip</path>
+		<hash>17EC0CC7</hash>
+		<lastplayed>19800101T010451</lastplayed>
+		<playcount>1</playcount>
+		<region>248</region>
+		<players>1-2</players>
+		<genreid>3840</genreid>
+		<genre>Compilation</genre>
 		<publisher>Nintendo</publisher>
 		<developer>Nintendo</developer>
-		<releasedate>19910812T230000</releasedate>
-		<video>media/videos/Super Mario World 2128c6e089e239c67aa13beb935ee9e1.mp4</video>
-		<thumbnail>media/thumbnails/Super Mario World 480f3c5612e5d93c3f2acdcc7fd4c762.png</thumbnail>
-		<image>media/images/Super Mario World caaf3326c2f7fb526544d758cfbe241c.png</image>
-		<desc>Once again, the evil Bowser has captured Princess Peach (while on a holiday on Yoshi's Island), and it's up to Mario to save her. To aid him in his quest, Mario must use the flying ability of the feather to get him to places hard to reach. But what's even more important is his new friend, the dinosaur Yoshi, who Mario can ride through each level and eat the enemies.
-
-Over 90 levels are on offer, with plenty of Bowser's evil koopas and new characters around each level. Apart from saving Peach, you can also save some of Yoshi's friends, other dinosaurs that each have a special attack. Each level also contains a set of extra items to collect, including dinosaur coins, and break the tape at the end of each level to collect stars, that allow you to open up the bonus games.</desc>
-		<favorite>true</favorite>
-		<rating>0.85000</rating>
-		<name>Super Mario World</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465694">
-		<path>Super Street Fighter II - The New Challengers (USA).zip</path>
-		<hash>F16D5CE9</hash>
-		<lastplayed>19800101T010845</lastplayed>
-		<playcount>1</playcount>
-		<region>248</region>
-		<players>1-2</players>
-		<genreid>262</genreid>
-		<genre>Action,Fight</genre>
-		<publisher>Capcom</publisher>
-		<developer>Capcom</developer>
-		<releasedate>19930910T230000</releasedate>
-		<video>media/videos/Super Street Fighter 2 40a9cd98b97fd98d494eb6b91510046c.mp4</video>
-		<thumbnail>media/thumbnails/Super Street Fighter 2 4c157bf8838d3933003f11ce9e1f84db.png</thumbnail>
-		<image>media/images/Super Street Fighter 2 0749fae6d8b76ab2a07339f38dd83fee.png</image>
-		<desc>This is the sequel to the super hit Street Fighter II Turbo and Street Fighter II Championship games for the SNES and Genesis. This port of the arcade game featured all 4 new characters and stages making a total of 16 playable. The game was packed into massive 32Meg and 40Meg cartridges for the SNES and Genesis. Featured many multiplayer modes in addition to the single player mode. There was the returning elimination group battle where you and a group of people played until one person was the champ. The Point Battle where the person with the most points wins. Newer modes included Tournament where you had an 8 man double elimination tournament. Finally the Challenge mode, where you tried to get the most points on a CPU opponent or beat them real fast trying to surpass records.</desc>
-		<favorite>true</favorite>
-		<rating>0.80000</rating>
-		<name>Super Street Fighter II</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465740">
-		<path>Toy Story (U) [!].zip</path>
-		<hash>82D71881</hash>
-		<lastplayed>19800101T010900</lastplayed>
-		<playcount>1</playcount>
-		<region>248</region>
-		<genreid>257</genreid>
-		<genre>Action,Platform</genre>
-		<publisher>Travellers Tales</publisher>
-		<developer>Buena Vista Interactive</developer>
-		<releasedate>19951130T230000</releasedate>
-		<video>media/videos/Toy Story 6c0324be6b68c2063af74fd55502fa7d.mp4</video>
-		<thumbnail>media/thumbnails/Toy Story 3bf5eb8d316492e90e9d3450c5180405.png</thumbnail>
-		<image>media/images/Toy Story 1f6ec70e0ebc5b5698b0575008b0df36.png</image>
-		<desc>This game is based on the movie "Toy Story". It sets you as the character of Woody as you jump, swing, and drive to the end of each level. Each level contains familar scenes from the movie. The gameplay consists of the platformsidescrolling kind. You use Woody's pullstring to defeat enemies like sharks, Mr. Potatohead, and Ham. After each level, you are treated to still images from the movie.
-</desc>
-		<favorite>true</favorite>
-		<rating>0.75000</rating>
-		<name>Toy Story</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465552">
-		<path>X-Men - Mutant Apocalypse (USA).zip</path>
-		<hash>5E34822A</hash>
-		<lastplayed>19800101T010913</lastplayed>
-		<playcount>1</playcount>
-		<region>248</region>
-		<genreid>263</genreid>
-		<genre>Beat'em Up,Action,Platform</genre>
-		<publisher>Capcom</publisher>
-		<developer>Capcom</developer>
-		<releasedate>19941031T230000</releasedate>
-		<video>media/videos/X-men - Mutant Apocalypse 4076604617c7b7f8dd0fd8f170966a17.mp4</video>
-		<thumbnail>media/thumbnails/X-men - Mutant Apocalypse 8bfafb1c5661d1c28c646868029a7790.png</thumbnail>
-		<image>media/images/X-men - Mutant Apocalypse b85ce053ddda48d9b1268724a816b0c4.png</image>
-		<desc>Because of a rise of anti-mutant activity in Genosha, Professor Xavier uses Cerebro to scan the island nation and discovers Apocalypse's presence there. Genosha's government is apparently using Apocalypse to bring their mutant population under control. However, Xavier suspects Apocalypse to follow his own plans and sends five X-Men, Cyclops, Wolverine, Psylocke, Beast and Gambit, to investigate.
-
-X-Men: Mutant Apocalypse combines the gameplay of a side-scrolling brawler like Final Fight with elements of a platformer, that is, players have to fight various enemies and survive the occasional jumping-puzzle. Most levels also feature mid- and end-bosses in form of robots, monsters or known Super-Villains.
-
-Each character has unique abilities and special moves: Cyclops uses his Optic Blast to attack enemies from a distance, Wolverine can climb walls, Psylocke is very agile and the best jumper of the team, Beast can cling to the ceiling while Gambit throws explosive cards at his enemies. Special moves are quite similar to those found in Street Fighter II (Wolverine has a Dragon-Punch-style attack and Gambit's Double Kick is virtually identical to M. Bison's Scissors Kick), and require similar button combinations.
-
-While most stages are unique for each character, some can be played with any of the X-Men. Progress is saved via password.
-</desc>
+		<releasedate>19880930T230000</releasedate>
+		<video>media/videos/Donkey Kong Classics cfc900e642ac2b8a26bd8284478cbc98.mp4</video>
+		<thumbnail>media/thumbnails/Donkey Kong Classics c103f4a487ae4f541abc25a79b3359e5.png</thumbnail>
+		<image>media/images/Donkey Kong Classics d62c48e366bd26fc0b847865d2634d34.png</image>
+		<desc>Donkey Kong Classics features both the original Donkey Kong and Donkey Kong Jr. on a single cartridge. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
 		<favorite>true</favorite>
 		<rating>0.70000</rating>
-		<name>X-Men : Mutant Apocalypse</name>
+		<name>Donkey Kong Classics</name>
 	</game>
-	<game source="Recalbox" timestamp="1659465825">
-		<path>Super Bomberman (USA).zip</path>
-		<hash>63A8E2C6</hash>
-		<lastplayed>20220801T182601</lastplayed>
-		<playcount>1</playcount>
-		<region>248</region>
-		<players>1-4</players>
-		<genreid>2816</genreid>
-		<genre>Puzzle-Game,Action</genre>
-		<publisher>Hudson</publisher>
-		<developer>Hudson</developer>
-		<releasedate>19930831T230000</releasedate>
-		<video>media/videos/Super Bomberman b2ef889b5870c734ca127963bcb13430.mp4</video>
-		<thumbnail>media/thumbnails/Super Bomberman ab469b3baa66d2941b13f75e2f5e0527.png</thumbnail>
-		<image>media/images/Super Bomberman ee8242bda299a0e1e91c66b9332dc096.png</image>
-		<desc>Super Bomberman is the first Bomberman game on the Super NES.  Like most games in the Bomberman series, Super Bomberman features a normal game as well as the famous battle mode.
-
-In the normal game, Mr. Karat and Dr. Mukk have been terrorizing Diamond City.  You must go from board to board, defeating the bad guys and solving puzzles to move to the next board.
-
-In battle mode, up to four players go head to head in a battle to the death.  Players can be computer controlled or human controlled via the Super MultiTap.</desc>
-		<favorite>true</favorite>
-		<rating>0.80000</rating>
-		<name>Super Bomberman</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465785">
-		<path>Mortal Kombat II (USA).zip</path>
-		<hash>1C3D3B72</hash>
-		<lastplayed>20220801T162625</lastplayed>
-		<playcount>1</playcount>
-		<region>248</region>
-		<players>1-2</players>
-		<genreid>262</genreid>
-		<genre>Action,Fight</genre>
-		<publisher>Acclaim</publisher>
-		<developer>Midway</developer>
-		<releasedate>19940908T230000</releasedate>
-		<video>media/videos/Mortal Kombat 2 d3223c0f0cdd6317c7ef579518b4fb50.mp4</video>
-		<thumbnail>media/thumbnails/Mortal Kombat 2 c6e768fbec8ea5681acca24b231901f5.png</thumbnail>
-		<image>media/images/Mortal Kombat 2 a58ad4772d002aefa8b320d61dce03da.png</image>
-		<desc>The Mortal Kombat fighters, plus several new ones, return for a tournament held by the evil Shang Tsung of the Outworld. The action is one-on-one as before, and famed for its high level of violence and blood (other than the sanitised Nintendo version). There are 5 difficulty levels and optional credits, as well as the usual two player mode including same character duels.
-
-To win the main tournament, the player must beat each of the other human players, before taking on Shang Tsung, Kintaro and finally Shao Kahn. Players have a range of punches and kicks available, as well as flying kicks, uppercuts, roundhouses, and the special moves, which vary for each player. These include throws, uppercuts, long-distance bullets, bicycle kicks and a teleport feature.</desc>
-		<favorite>true</favorite>
-		<rating>0.80000</rating>
-		<name>Mortal Kombat II</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465597">
-		<path>Street Fighter II Turbo - Hyper Fighting (USA).zip</path>
-		<hash>A45CADD6</hash>
-		<lastplayed>20220801T181600</lastplayed>
-		<playcount>2</playcount>
-		<region>248</region>
-		<players>1-2</players>
-		<genreid>262</genreid>
-		<genre>Fight</genre>
-		<publisher>Capcom</publisher>
-		<developer>Capcom</developer>
-		<releasedate>19930731T230000</releasedate>
-		<video>media/videos/Street Fighter 2 Turbo - Hyper Fighting 7dee526f29468030579a30a0323281de.mp4</video>
-		<thumbnail>media/thumbnails/Street Fighter 2 Turbo - Hyper Fighting b52d1c949d291a35e8e2492bfe7c1397.png</thumbnail>
-		<image>media/images/Street Fighter 2 Turbo - Hyper Fighting 01549d1cba744fe661ccc6292e888d22.png</image>
-		<desc>Choose from twelve street fighters from around the world, skilled in a variety of martial arts -- for instance, a character named E.Honda is a sumo wrestler from Japan, while Ken is a master of Tae Kwon Do from the United States. Journey to different countries to defeat other fighters, eventually leading up to a battle with evil man M.Bison. Besides the standard punches and kicks, each character can also execute special moves, such as energy projectiles or lightning-fast kicks, for more damage or to create a chain of hit combos. 
-
-This home version is a re-release of the original Street Fighter 2 game with several major improvements: the 'boss' characters (Vega, Balrog, Sagat, and M. Bison) are automatically unlocked for you to play, each character receives some new or upgraded moves and costume colors, and you can select a Turbo speed level which lets you play at a faster speed. It is based on the arcade re-release by the same name which also contained the subtitle "Hyper Fighting."
-</desc>
-		<favorite>true</favorite>
-		<rating>0.95000</rating>
-		<name>Street Fighter II Turbo</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465694">
-		<path>Super Star Wars (USA).zip</path>
-		<hash>ACBCAE7C</hash>
-		<lastplayed>20220801T165621</lastplayed>
-		<playcount>1</playcount>
-		<region>248</region>
-		<genreid>257</genreid>
-		<genre>Action,Platform</genre>
-		<publisher>JVC</publisher>
-		<developer>Sculptured Software</developer>
-		<releasedate>19921031T230000</releasedate>
-		<video>media/videos/Super Star Wars 3c304087a598dfb3abb5c65992312e14.mp4</video>
-		<thumbnail>media/thumbnails/Super Star Wars c7813e75c695b1c3d18d5992bba45b36.png</thumbnail>
-		<image>media/images/Super Star Wars bb9ecffb3cd1ccfa0ccfe3693103e306.png</image>
-		<desc>The story of this game is based on Episode IV: A New Hope, the first of the original  Star Wars movie trilogy. The player initially controls the movie's main hero, Luke Skywalker, but two more controllable characters join later: the careless captain Han Solo and his Wookie side-kick, Chewbacca. The game generally follows the movie plot, allowing the player to experience some of the most important sequences, such as the search for Obi-Wan Kenobi, rescuing princess Leia, and the final confrontation against Death Star and its TIE Fighters, led by the mysterious Darth Vader.
-
-Most of the game levels follow traditional platform gameplay style. As Luke, Han, or Chewbacca, the player makes his way through the linear levels, fighting enemies, jumping over obstacles, and collecting power-ups. The power-ups include standard health-restoring items, upgrades for the blaster gun (up to five different upgrade levels), as well as special items that can be used for massive destruction of the enemies. Luke uses a weak blaster gun, but later gains access to a lightsaber, being able to fight enemies melee-style. Han and Chewbacca use stronger flame guns, but cannot upgrade to better weapons.
-
-Some of the levels are dedicated to familiar Star Wars vehicles (such as a land speeder). Controlling the vehicle from a third-person view, the player has to navigate it through the pseudo-3D environments, avoiding obstacles and shooting at enemies on the way.</desc>
-		<favorite>true</favorite>
-		<rating>0.75000</rating>
-		<name>Super Star Wars</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465838">
-		<path>Legend of Zelda, The - A Link to the Past (Europe).zip</path>
-		<hash>04D55E12</hash>
-		<lastplayed>20220801T162551</lastplayed>
-		<playcount>1</playcount>
-		<region>83</region>
-		<genreid>768</genreid>
-		<genre>Action,Role playing games,Action / Adventure,Adventure</genre>
-		<publisher>Nintendo</publisher>
-		<developer>Nintendo</developer>
-		<releasedate>19920923T230000</releasedate>
-		<video>media/videos/Legend Of Zelda - A Link To The Past The 42174041ed0af78711a621b63b0e24c8.mp4</video>
-		<thumbnail>media/thumbnails/Legend Of Zelda - A Link To The Past The f50c51ea2fadc57aef5ab448dde4cea7.png</thumbnail>
-		<image>media/images/Legend Of Zelda - A Link To The Past The c861c6573cff4eb41fe837d4de1df658.png</image>
-		<desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
-		<favorite>true</favorite>
-		<rating>0.95000</rating>
-		<name>The Legend of Zelda : A Link to the Past</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465692">
-		<path>Wario's Woods (U) [!].zip</path>
-		<hash>8728F9D0</hash>
-		<lastplayed>20220801T170048</lastplayed>
-		<playcount>1</playcount>
-		<region>248</region>
-		<players>1-2</players>
-		<genreid>2816</genreid>
-		<genre>Puzzle-Game</genre>
-		<publisher>Nintendo</publisher>
-		<developer>Nintendo</developer>
-		<releasedate>19941209T230000</releasedate>
-		<video>media/videos/Warios Woods 32dcbb794155aa993e703719748ac378.mp4</video>
-		<thumbnail>media/thumbnails/Warios Woods f5cd3c9ae9cc443e5223f2f9172c228e.png</thumbnail>
-		<image>media/images/Warios Woods b2f9cdc95d033d33078f3c84dc0cc385.png</image>
-		<desc>Wario's Woods is a puzzle game similar to Tetris or Columns, but with a twist. Instead of directly controlling the monsters and bombs that are falling down, the player controls Toad who has to carry around stacks of monsters and bombs and to combine them in the right way. One bomb plus at least two monsters of the same color have to be combined to make them disappear. If five or more objects are cleared at the same time, a diamond will appear. Destroying the diamond will clear all monsters of the diamond's color.
-There are four different ways to pick up objects. The A button lets Toad pick up the whole stack that is in front of him, the B button lets him only pick up one object, even if it's in the middle of a stack, the Y button lets him kick a monster or bomb that's in front of him and the X button places him on top of the stack that he is carrying. He can also run up walls and stacks to catch falling objects out of the air or to pick up certain parts of a stack.
-
-There are 5 different modes of play: a "Round Game" in which Toad has to clear numerous levels, a match versus a computer controlled opponent, a two player mode, a "Time Race" mode, and finally, an extensive training mode.
-
-There are some differences between the SNES and NES versions. Due to a lack of buttons, controls are a little different in the NES version (although all the moves from the SNES version are present). Also, there is no vs. mode against the computer, but the "Round Game" mode features two modes of play: one that includes boss-fights on every level ending with a 9.</desc>
-		<favorite>true</favorite>
-		<rating>0.80000</rating>
-		<name>Wario's Woods</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465695">
-		<path>Super Metroid (Europe) (En,Fr,De).zip</path>
-		<hash>AD2CBF9C</hash>
-		<region>83</region>
-		<genreid>512</genreid>
-		<genre>Adventure,Action</genre>
-		<publisher>Nintendo</publisher>
-		<developer>Nintendo</developer>
-		<releasedate>19940727T230000</releasedate>
-		<video>media/videos/Super Metroid dfbf4cc641a15d941bd3c13a7f794988.mp4</video>
-		<thumbnail>media/thumbnails/Super Metroid 6cddfaa1bb8d4b9312b7309a37487be6.png</thumbnail>
-		<image>media/images/Super Metroid f29b735a326169367e38b17b37b932f6.png</image>
-		<desc>Join forces with the power of Samus for a Super Metroid clash!
-Take on the legion of space pirates and take on a new Metroid force as you progress through the underworld of the planet Zebes! It's up to you and Samus to find the larval Metroid before evil forces misuse its energy.
-Every vicious corner, every hidden passageway on the planet Zebes holds menacing creatures ready for battle... including the horrible Ridley and the giant lizard, Kraid. Use your lethal somersault to make enemies bite the dust. Use an electric beam through the gaps. No one will stop you or Samus. But beware! It seems that Mother Brain is back...</desc>
-		<favorite>true</favorite>
-		<rating>0.80000</rating>
-		<name>Super Metroid</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465804">
-		<path>Jurassic Park (E).zip</path>
-		<hash>8452CE98</hash>
-		<lastplayed>20220801T153935</lastplayed>
+	<game source="Recalbox" timestamp="1659485937">
+		<path>Super Mario Bros. (Japan, USA).zip</path>
+		<hash>3337EC46</hash>
+		<lastplayed>20220802T231722</lastplayed>
 		<playcount>2</playcount>
 		<region>11</region>
-		<genreid>512</genreid>
-		<genre>Adventure,Action</genre>
-		<publisher>Ocean</publisher>
-		<developer>Ocean</developer>
-		<releasedate>19931031T230000</releasedate>
-		<video>media/videos/Jurassic Park 5d84fca8d6c6583e531ba7ad4bbbdb04.mp4</video>
-		<thumbnail>media/thumbnails/Jurassic Park c69fbd6cd88ad416c0666613cd6e40b3.png</thumbnail>
-		<image>media/images/Jurassic Park af4edb19fdfe6162fec77368d1004d5c.png</image>
-		<desc>The SNES game based on the film Jurassic Park is an action title that combines top-down and first-person perspectives.
-
-Playing as Dr. Alan Grant, the player's ultimate goal is to escape the Jurassic Park island. To reach that goal, several other tasks must be completed, including restoring power to the park and destroying a Velociraptor nest. 
-
-The large game world is seen from a top-down view and can be freely explored. Some areas are not accessible from the beginning, however. To enter them, keycards must be found or some special goal be completed, like rebooting the computer system and using it to open certain gates. Dr. Grant can defend himself against the many free-roaming dinosaurs with a variety of weapons, including an electroshock gun, a shotgun, rocket launcher, gas grenade launcher and bola gun. All weapons except the electro gun require ammo to work. A radar at the bottom of the screen helps in detecting approaching dinosaurs, but will only work once the park's motion detectors have been activated.
-
-Upon entering one of the park's buildings, the game view switches to a scrolling first person perspective, reminiscent of early first person shooters like Wolfenstein 3D. Just like outside, dinosaurs lurk in the corridors, and the same guns as in the overworld map can be used to destroy them. Many buildings consist of several floors, with elevators connecting them. Some rooms are pitch black and can only be entered when in possession of night vision goggles.
-
-The game supports the SNES mouse for the first-person sections and the computer system interface.</desc>
-		<favorite>true</favorite>
-		<rating>0.80000</rating>
-		<name>Jurassic Park</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465638">
-		<path>Mario is Missing (F).zip</path>
-		<hash>53D5D08F</hash>
-		<lastplayed>20220801T162605</lastplayed>
-		<playcount>1</playcount>
-		<region>11</region>
-		<genreid>4352</genreid>
-		<genre>Educational,Adventure</genre>
-		<publisher>Nintendo</publisher>
-		<developer>The Software Toolworks</developer>
-		<releasedate>19940608T230000</releasedate>
-		<video>media/videos/Mario Is Missing  2c990f2cce9351b29159fe33f87debb9.mp4</video>
-		<thumbnail>media/thumbnails/Mario Is Missing  7d4fd80b72d61e6f6a0e64e9c6131f02.png</thumbnail>
-		<image>media/images/Mario Is Missing  72f0ef094833e77e948d0e03213a92e3.png</image>
-		<desc>Bowser, the token bad guy from the Mario Bros. series, is up to no good again in this educational game designed to teach children geography. This time he's set up his headquarters in Antarctica and created portals to 25 famous cities around the world, so that his Koopas can wreak havoc in our own world. He's also kidnapped Mario, hence the title of this game. You play as Luigi who must foil Bowser's plans by entering through each of the portals, tracking down the Koopas who have stolen famous artifacts, and looking for clues about your location. Once you've set everything right and determined where you are, you call Yoshi on your Globulator so he can track you down. You need Yoshi's help to eat the Pokey (a cactus-like creature) that's guarding the return portal, and when Luigi returns he can close the portal forever.
-
-By exploring these 25 cities, children can familiarize themselves with the landmarks and artifacts that each city has. When Luigi returns the stolen artifacts to the proper places he can even take photographs of them. There is also an add-on disk you can purchase that adds ten additional cities to the game (it originally retailed for $24.95).
-</desc>
-		<favorite>true</favorite>
-		<rating>0.30000</rating>
-		<name>Mario Is Missing!</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465739">
-		<path>Death and Return of Superman, The (U).zip</path>
-		<hash>A567957C</hash>
-		<lastplayed>20220801T162312</lastplayed>
-		<playcount>1</playcount>
-		<region>248</region>
-		<genreid>263</genreid>
-		<genre>Action,Beat'em Up</genre>
-		<publisher>Blizzard Entertainment</publisher>
-		<developer>Sunsoft</developer>
-		<releasedate>19940731T230000</releasedate>
-		<video>media/videos/Death And Return Of Superman The 87b16366492a9a2dab402dad4cc8e0b4.mp4</video>
-		<thumbnail>media/thumbnails/Death And Return Of Superman The 03dd639dce0eacce94ee01ebc2fe6ada.png</thumbnail>
-		<image>media/images/Death And Return Of Superman The 772c3a0e12eea58fb9d0d25fa60ec878.png</image>
-		<desc>"Doomsday" is here and only Superman can stop him. Unfortunately in doing so he gets killed himself. Now four other characters emerge, each claiming to be the real hero. The story starts you off with Superman, then Steel, the Eradicator, the Cyborg, and Superboy. Each character has slightly varied moves so different strategies apply when playing as them.
-
-The gameplay is basically that of a standard beat-em-up, with the punches, throws and specials moves.</desc>
-		<favorite>true</favorite>
-		<rating>0.64999</rating>
-		<name>The Death and Return of Superman</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465785">
-		<path>Batman - Revenge of the Joker (U).zip</path>
-		<hash>205654DD</hash>
-		<lastplayed>20220801T162257</lastplayed>
-		<playcount>1</playcount>
-		<region>248</region>
-		<genreid>257</genreid>
-		<genre>Action,Platform</genre>
-		<publisher>Sunsoft</publisher>
-		<developer>Ringler Studios</developer>
-		<releasedate>19911219T230000</releasedate>
-		<video>media/videos/Batman - Revenge Of The Joker 58994e9c7daedea6d62c5e9b9659e64f.mp4</video>
-		<thumbnail>media/thumbnails/Batman - Revenge Of The Joker 1815dabe8b3eaebcdf6401f8f67b8043.png</thumbnail>
-		<image>media/images/Batman - Revenge Of The Joker 380d0e99637702f14c44517cd9a11aea.png</image>
-		<desc>Batman is armed with a utility belt that allows him to collect various types of icons throughout the stages in order to shoot different types of baterangs and projectiles. The game's password feature also helped the game from becoming too difficult.
-The music was composed by Naoki Kodaka, Hara Nobuyuki and Shinichi Seya.It also features several remixes of the themes from the Megaman series, most notable the opening theme being a remix of the boss select theme from Megaman 2.</desc>
-		<favorite>true</favorite>
-		<rating>0.30000</rating>
-		<name>Batman : Revenge of the Joker</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465708">
-		<path>Diddys Kong Quest (V1.1) (U).zip</path>
-		<hash>CDBBF300</hash>
-		<lastplayed>20220801T162357</lastplayed>
-		<playcount>1</playcount>
-		<region>11</region>
 		<players>1-2</players>
 		<genreid>257</genreid>
-		<genre>Platform,Platform / Run Jump</genre>
-		<publisher>Nintendo</publisher>
-		<developer>Rareware</developer>
-		<releasedate>19951204T230000</releasedate>
-		<video>media/videos/Donkey Kong Country 2 - Diddys Kong Quest f2a89b952fa524177482e099a54e86b2.mp4</video>
-		<thumbnail>media/thumbnails/Donkey Kong Country 2 - Diddys Kong Quest 9601474e0949560995e88982b83ca537.png</thumbnail>
-		<image>media/images/Donkey Kong Country 2 - Diddys Kong Quest 6b7dc69c8804ea5187e77b6e566b28a0.png</image>
-		<desc>Donkey Kong has been kong-napped by the nasty K.Rool and the Kremlings, and it is up to Diddy Kong and his girl-friend Dixie Kong to save him.
-
-All the familiar enemies and helpful friends return, along with some new characters, including the wise Wrinkly Kong who will teach you some important lessons in gameplay. Again the emphasis is on banana collecting, where as every 100 bananas makes one extra life. Apart from beating K. Rool and rescuing Donkey Kong, there are extra missions that can be completed. Collect enough K. Rool Krem Coins to open up the routes to the Lost World, while every level has a hidden Hero Coin to collect.
-</desc>
-		<favorite>true</favorite>
-		<rating>0.95000</rating>
-		<name>Donkey Kong Country 2 : Diddy's Kong Quest</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465862">
-		<path>Super Star Wars - Return of the Jedi (U) (V1.1) [!].zip</path>
-		<hash>49F841D8</hash>
-		<lastplayed>20220801T182738</lastplayed>
-		<playcount>2</playcount>
-		<region>248</region>
-		<genreid>257</genreid>
-		<genre>Action,Platform</genre>
-		<publisher>JVC</publisher>
-		<developer>Sculptured Software</developer>
-		<releasedate>19940930T230000</releasedate>
-		<video>media/videos/Super Star Wars - Return Of The Jedi 962c1b3e9488e8a70bbec241416ff170.mp4</video>
-		<thumbnail>media/thumbnails/Super Star Wars - Return Of The Jedi 9533660fa815cc0ebc0703c26f8eaaa1.png</thumbnail>
-		<image>media/images/Super Star Wars - Return Of The Jedi 5afdbfc0cc48c2ccf928274f48b8e1f4.png</image>
-		<desc>You select your character from the movie (Luke Skywalker, Han Solo, Princess Leia, or Chewbacca) before each level, as each one has different abilities, and go try to beat levels based on the movie's scenes brandishing lightsabers, blasters or crossbows, etc. depending on your choice of character.
-
-Gameplay consists of standard platform action spiced up with some slightly different (gameplay-wise) sequences. Race to Jabba the Hutt's palace in a speeder, fight your way through Jabba the Hutt's minions before killing Jabba himself, control speeder bikes and the Millennium Falcon, and much more.
-</desc>
-		<favorite>true</favorite>
-		<rating>0.80000</rating>
-		<name>Super Star Wars : Return of the Jedi</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465636">
-		<path>Megaman X (USA).zip</path>
-		<hash>1033EBA4</hash>
-		<lastplayed>20220801T184102</lastplayed>
-		<playcount>2</playcount>
-		<region>248</region>
-		<genreid>257</genreid>
-		<genre>Action,Platform</genre>
-		<publisher>Capcom</publisher>
-		<developer>Capcom</developer>
-		<releasedate>19940117T230000</releasedate>
-		<video>media/videos/Mega Man X f2e39d33055d62e7d89386182514e3cf.mp4</video>
-		<thumbnail>media/thumbnails/Mega Man X 2a582d884282fd1d82b07a4ed212177f.png</thumbnail>
-		<image>media/images/Mega Man X 2ba967d4fbeed52864ba68c10d46f2c9.png</image>
-		<desc>Mega Man X is a robot designed by Dr. Light to choose his own path in life. Years after he is created, Dr. Cain finds X and mimics his design to create a race of such robots called reploids. When the sigma virus infects these reploids, causing them to commit acts of evil, it is up to Mega Man X and his partner Zero (who is quite powerful, contrary to what his name implies) to stop it.</desc>
-		<favorite>true</favorite>
-		<rating>0.80000</rating>
-		<name>Mega Man X</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465696">
-		<path>Super Bomberman 4 (English - Translated).zip</path>
-		<hash>0E461EDE</hash>
-		<region>11</region>
-		<players>1-5</players>
-		<genreid>2816</genreid>
-		<genre>Puzzle-Game,Action</genre>
-		<publisher>Hudson</publisher>
-		<developer>Hudson</developer>
-		<releasedate>19960425T230000</releasedate>
-		<video>media/videos/Super Bomberman 4 58e3626dd0b4c467753e7e81eab9f88d.mp4</video>
-		<thumbnail>media/thumbnails/Super Bomberman 4 881fc7ee4ed0a7c1b0ef62c6cfbfdbb2.png</thumbnail>
-		<image>media/images/Super Bomberman 4 63c3a4415cf3a7ed03653d4fbe23ce64.png</image>
-		<desc>The fourth addition to the Bomberman series for the SNES.  This game is almost identical to Super Bomberman 3 only with new levels and a new story.
-
-A small twist in this game is that instead of choosing the traditional bomberman or a country specific character players get to choose between bosses from the previous game when playing battle mode.  Each character has a special power from a jet pack to throwing abilities.</desc>
-		<favorite>true</favorite>
-		<rating>0.80000</rating>
-		<name>Super Bomber Man 4</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465740">
-		<path>F-Zero (USA).zip</path>
-		<hash>AA0E31DE</hash>
-		<lastplayed>20220801T170320</lastplayed>
-		<playcount>2</playcount>
-		<region>248</region>
-		<genreid>1537</genreid>
-		<genre>Race 3rd Pers. view,Race, Driving</genre>
+		<genre>Platform</genre>
 		<publisher>Nintendo</publisher>
 		<developer>Nintendo</developer>
-		<releasedate>19901120T230000</releasedate>
-		<video>media/videos/F-zero 72264b2df403ee8d73454d0266a181dc.mp4</video>
-		<thumbnail>media/thumbnails/F-zero 75a806d924d02bedb5c56aa467e8f053.png</thumbnail>
-		<image>media/images/F-zero 73b875ceeebc2e136e730007bcd6ad6c.png</image>
-		<desc>F-Zero is a futuristic racing game, set in the year 2560. The player chooses one of the four available hovercars and then can race with other hovercars in one of the gameplay modes - "Practice" or "Grand Prix". 
+		<releasedate>19850912T230000</releasedate>
+		<video>media/videos/Super Mario Bros. a374f136bd8dd6315693b879772bc4ce.mp4</video>
+		<thumbnail>media/thumbnails/Super Mario Bros. 6534f6de836049e91b1d84ee222042be.png</thumbnail>
+		<image>media/images/Super Mario Bros. c0eefb08fbda01f216029dcd6ea99fe6.png</image>
+		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.
 
-In "Practice" mode, the player chooses one track where he competes with one other hovercar to win the race (or there can be no rival at all, if you so wish). In "Grand Prix", the player must complete a series of races with several competitors. Each race consists of five laps. 
+The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.
 
-The hovercar has a limited Power meter, which represents the machine's health and decreases when the hovercar collides with the track boundaries and other players. If power runs out, the hovercar explodes and the player loses the race. There are repair areas near the start line, which restore power to the player's hovercar if he drives into them. The tracks contain many more or less dangerous traps, such as icefields or landmines. 
-
-Completing a lap awards the player a "Super Jet" which can be activated at any time to give a short speed boost. The hovercar can keep up to three Super Jets and use them when necessary. 
-
-Completing a lap also gives points, which give the player a life when enough are accumulated. The player can lose a life in the Grand Prix mode if his hovercar explodes, if his hovercar somehow falls out of the track or if he ends up too far behind the other racers.</desc>
-		<favorite>true</favorite>
+Each level includes a bonus section filled with coins plus a shortcut through the level, plenty of bad buys and obstacles to get past, and an end of level flag, in which the higher the player grabs it, the more points are awarded to them. Certain levels also include warp points, which takes the player to higher levels.</desc>
 		<rating>0.80000</rating>
-		<name>F-Zero</name>
+		<name>Super Mario Bros.</name>
 	</game>
-	<game source="Recalbox" timestamp="1659465591">
-		<path>Top Gear (USA).zip</path>
-		<hash>D34C49B7</hash>
+	<game source="Recalbox" timestamp="1659465437">
+		<path>Super Mario Bros. 3 (USA).zip</path>
+		<hash>85A79D9C</hash>
+		<lastplayed>20220802T231756</lastplayed>
+		<playcount>2</playcount>
 		<region>248</region>
 		<players>1-2</players>
-		<genreid>1537</genreid>
-		<genre>Race, Driving</genre>
-		<publisher>Gremlin Interactive</publisher>
-		<developer>Kemco</developer>
-		<releasedate>19920331T230000</releasedate>
-		<video>media/videos/Top Gear c02709897b39cbf7caa7014535d3f18f.mp4</video>
-		<thumbnail>media/thumbnails/Top Gear c5f3b2dd833e80e1549f517aa0df62df.png</thumbnail>
-		<image>media/images/Top Gear 072a0e3b7a96120227e05e3196a5d60f.png</image>
-		<desc>In the first of three released games for Super NES, players can choose among 4 different cars, each one with different attributes (maximum speed, fuel consumption, boost power and tire grip) to face 32 challenging courses situated in several places around the world as Brazil, USA, France, Japan etc.
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>Nintendo</publisher>
+		<developer>Nintendo</developer>
+		<releasedate>19900211T230000</releasedate>
+		<video>media/videos/Super Mario Bros. 3 b352dba89115779a600ffcfb85ecaac7.mp4</video>
+		<thumbnail>media/thumbnails/Super Mario Bros. 3 d54788ffed6d84a92568c31bfaf1f69a.png</thumbnail>
+		<image>media/images/Super Mario Bros. 3 fa2a3df5ef2ac49c5d72157719d113c9.png</image>
+		<desc>Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. 
 
-In more longer tracks, players will find a Pit Stop section, where they can enter to replenish the fuel meter (total or partially). The game has a split-screen display for 1 or 2 players. In 1-Player mode, you'll dispute the races against the computer, that has a slightly bigger speed than yours, helping to give a lot more of competitiveness. A password system was included, being possible to stop a current game and resume it later.
+This time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.
+It's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.
 
-Through the game, players will find several obstacles scattered by the courses, like rows of iron plates or even lots of stones. In order to qualify for the next circuit, it's required to complete it at least in the 5th position, or else the game is over.</desc>
+Old and new power-ups abound in each level for the Mario Brothers, including the return of the Super Mushroom and Fire Flower, plus the new power-ups including the frog suit, the warp flute, and the most important of all, the leaf, which allows the player to fly and attack enemies with your tail.</desc>
 		<rating>0.85000</rating>
-		<name>Top Gear</name>
+		<name>Super Mario Bros. 3</name>
 	</game>
-	<game source="Recalbox" timestamp="1659465623">
-		<path>Super Mario All-Stars (USA).zip</path>
-		<hash>925637C7</hash>
-		<lastplayed>20220801T154248</lastplayed>
-		<playcount>2</playcount>
+	<game source="Recalbox" timestamp="1659465808">
+		<path>Teenage Mutant Ninja Turtles (U) [h1].zip</path>
+		<hash>DF45210E</hash>
+		<region>248</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>Konami</publisher>
+		<developer>Konami</developer>
+		<releasedate>19890601T230000</releasedate>
+		<video>media/videos/Teenage Mutant Ninja Turtles dd08cc90d5e0ed3b3c46a936f7ebd41d.mp4</video>
+		<thumbnail>media/thumbnails/Teenage Mutant Ninja Turtles d7b9f3caa067ff3d12856565aa25e059.png</thumbnail>
+		<image>media/images/Teenage Mutant Ninja Turtles 6302a6aff8649649662925aa2569c8b9.png</image>
+		<desc>With April O'Neil held hostage by The Shredder's thugs, Bebop and Rocksteady, once again, it's up to the Teenage Mutant Ninja Turtles to come to her rescue!  Play as all four of the turtle heroes, rescue April, and then rescue your sensei Splinter from Mecha-Turtles clutches than go after The Shredder deep in the bowels of The Technodrome itself.
+
+Teenage Mutant Ninja Turtles is an action game based on the late eighties/early nineties cartoon series of the same name. Play as Leonardo, Michaelangelo, Donatello and Raphael (one turtle only, but the ability to swap between turtles at any time) as you save your friends and battle The Shredder and his cronies. There are no 'lives', as such - when you lose a turtle, he becomes 'captured', and you cannot use him again until you rescue him from a place hidden in the overworld.
+
+Gameplay takes place in two perspectives: a top-down view, which lets you run around and explore buildings, sewers and other places. When entering places from the top-down view, the perspective shifts to a side-scrolling view, where most of the battling takes place. In addition to each turtle's main weapon, sub-weapons (such as shuriken) can be acquired, to use at foes - these have a limited use.</desc>
+		<rating>0.64999</rating>
+		<name>Teenage Mutant Ninja Turtles</name>
+	</game>
+	<game source="Recalbox" timestamp="1659465836">
+		<path>Ice Climber (USA, Europe).zip</path>
+		<hash>70044A74</hash>
+		<lastplayed>20220802T010000</lastplayed>
+		<playcount>1</playcount>
 		<region>248</region>
 		<players>1-2</players>
 		<genreid>257</genreid>
-		<genre>Action,Compilation,Platform</genre>
+		<genre>Platform,Action</genre>
 		<publisher>Nintendo</publisher>
 		<developer>Nintendo</developer>
-		<releasedate>19930731T230000</releasedate>
-		<video>media/videos/Super Mario All-stars 418c6ea276aaec9b9e56007a440ab944.mp4</video>
-		<thumbnail>media/thumbnails/Super Mario All-stars c14a94cf80d52ac5f82db00c4f6e42f3.png</thumbnail>
-		<image>media/images/Super Mario All-stars 3adcd47c77edf17d61c3d469f94b1289.png</image>
-		<desc>Super Mario All-Stars is a compilation on Super Nintendo of all the platform games featuring Mario released for Nintendo. It includes : Super Mario Bros. 1, 2 and 3 as well as Super Mario Bros.: The Lost Levels, which was never released in Europe before. More than a simple compilation, the game brings improved graphics and the possibility to save your progress. Nostalgic fans of the first Nintendo console will be pleased.</desc>
-		<favorite>true</favorite>
-		<rating>0.80000</rating>
-		<name>Super Mario All-Stars</name>
+		<releasedate>19850930T230000</releasedate>
+		<video>media/videos/Ice Climber 421075cec83d0d3d3d8c7cf11cfe40a9.mp4</video>
+		<thumbnail>media/thumbnails/Ice Climber adeafb5174bea23e05c2b3f2795235ef.png</thumbnail>
+		<image>media/images/Ice Climber 86b9132920dea16ef6f1377be66427da.png</image>
+		<desc>In Ice Climber one or two players need to climb their way to the top of 32 different mountains. Each mountain is broken up into eight levels of platforms along with a bonus stage at the top. Attempting to stop you from making upward progress are different creatures ranging from polar bears to condors as well as treacherous landscapes with falling icicles, moving platforms, and icy floors. To help out, your only weapon is a mallet which can be used to knock out enemies as well as bust away bricks in the platforms to give you some room to jump up to the next level. When you finally reach the top, it's time to move on to the next, more difficult level.</desc>
+		<rating>0.60000</rating>
+		<name>Ice Climber</name>
 	</game>
-	<game source="Recalbox" timestamp="1659465804">
-		<path>Star Fox (USA).zip</path>
-		<hash>0BAE0941</hash>
-		<lastplayed>20220801T182119</lastplayed>
-		<playcount>2</playcount>
+	<game source="Recalbox" timestamp="1659465635">
+		<path>Dragon Warrior (USA).zip</path>
+		<hash>CAAF5C6B</hash>
 		<region>248</region>
-		<genreid>260</genreid>
-		<genre>Shoot'em Up</genre>
+		<genreid>768</genreid>
+		<genre>Role playing games</genre>
 		<publisher>Nintendo</publisher>
-		<developer>Nintendo</developer>
-		<releasedate>19930228T230000</releasedate>
-		<video>media/videos/Starwing 5662354a27d8b42a76437ca194005da8.mp4</video>
-		<thumbnail>media/thumbnails/Starwing 4a24b6f8ac445610a84eb28075d97ac2.png</thumbnail>
-		<image>media/images/Starwing 9a8715f24ee23a5f9b3da64d7ce23752.png</image>
-		<desc>This is the first SNES title using the Super FX chip; you are flying ace Fox McCloud, who with his trusted wingmen and his powerful Arwing starfighter, must rid the Lylat System of the evil that surrounds it. Wave after wave of enemies will fly towards you, and with the advice of your wingmen, you must guide your way through each level and take down as many as you can.
-</desc>
-		<favorite>true</favorite>
-		<rating>0.80000</rating>
-		<name>Star Fox</name>
+		<developer>Enix</developer>
+		<releasedate>19890731T230000</releasedate>
+		<video>media/videos/Dragon Warrior 756adc83704c90765d4f1958210927d7.mp4</video>
+		<thumbnail>media/thumbnails/Dragon Warrior 582bd074fbf0176a0bf3bacebf97aa1c.png</thumbnail>
+		<image>media/images/Dragon Warrior 16d22bfed51258c749d5332e3a5d10ee.png</image>
+		<desc>Dragon Warrior is the first famous console RPG. You assume the role of a descendant of Erdrick, a brave warrior of the past. Once upon a time, Erdrick defeated the evil Dragonlord with the help of the Ball of Light. Now, Dragonlord stole the Ball of Light, and your mission is to recover it and to restore peace in the world.
+
+In Dragon Warrior, you move your character around in a top-down world. In cities and palaces you can talk to people, rest in inns and buy stuff in shops. There's a variety of weapons, equipment and armor to buy. 
+
+When wandering around in the wilderness, you occasionally encounter enemies, and fight them from 1st person perspective. Combat is turn based: you select menu options while fighting - you can attack with your weapon, cast a spell (using up some of your magic energy), use and item or try to run. Killing monsters gives you experience, and, as is typical for RPGs, you level up and improve your stats when you gain enough experience. 
+
+Like in later RPGs, you have limited hit points, lose them when you are attacked by enemies, and die when you run out of them. When your character dies in a battle, he is automatically restored in a nearby town.</desc>
+		<rating>0.70000</rating>
+		<name>Dragon Warrior</name>
 	</game>
-	<game source="Recalbox" timestamp="1659465749">
-		<path>Doom (USA).zip</path>
-		<hash>09E85EA6</hash>
-		<lastplayed>20220802T174654</lastplayed>
-		<playcount>3</playcount>
-		<region>248</region>
-		<genreid>259</genreid>
-		<genre>Shooter / 1st person,Shooter</genre>
-		<publisher>Ocean</publisher>
-		<developer>Sculptured Software</developer>
-		<releasedate>19960228T230000</releasedate>
-		<video>media/videos/Doom e79027e4ab4e83fced18e2c4977564b1.mp4</video>
-		<thumbnail>media/thumbnails/Doom 53836bf7efc10b68895f5f71ce34dc7e.png</thumbnail>
-		<image>media/images/Doom ea764bb3405002e52be661ffc66c3c3c.png</image>
-		<desc>The Union Aerospace Corporation has been experimenting with teleportation technology on Mars' moons Phobos and Deimos. After early successes, something goes wrong. It seems the scientists have opened a gateway straight to Hell. Phobos base is overrun with demonic creatures, and the whole of Deimos simply vanishes. A squad of marines is sent to Phobos, but all except one are quickly slaughtered. It falls to the surviving marine to grab some guns and strike back at the demons.
-
-id Software's follow-up to their genre-defining Wolfenstein 3D, DOOM is another first person shooter: full-on action seen from the space marine's perspective. Like Wolfenstein, the game consists of distinct episodes, playable in any order. The first episode, Knee-Deep in the Dead, takes place in the Phobos base and is freely available as shareware. The full game continues on Deimos in The Shores of Hell and culminates in Inferno, the final episode which takes place in Hell itself. Each episode consists of nine levels, one of which is a hidden level.
-
-The basic objective in each level is simply to reach the exit. Since dozens of enemies stand in the way, the only way to get there is through killing them. Switches and buttons must be 
-pressed to advance at certain points and often color-coded locked doors will block the way - matching keycards or skull keys must be found to pass.
-
-DOOM's engine technology is more advanced than Wolfenstein's, and thus the levels are more varied and complex. The engine simulates different heights (stairs and lifts appear frequently) and different lighting conditions (some rooms are pitch black, others only barely illuminated). There are outdoor areas, pools of radioactive waste that hurt the player, ceilings that come down and crush him, and unlike Wolfenstein's orthogonally aligned corridors, the walls in DOOM can be in any angle to each other. An automap helps in navigating the levels.
-
-Stylistically, the levels begin with a futuristic theme in the military base on Phobos and gradually change to a hellish environment, complete with satanic symbols (pentagrams, upside-down-crosses and portraits of horned demons), hung-up mutilated corpses and the distorted faces of the damned.
-
-DOOM features a large weapon arsenal, with most weapons having both advantages and drawbacks. The starting weapons are the fists and a simple pistol. Also available are a shotgun (high damage, slow reload, not good at distances), a chaingun (high firing rate, but slightly inaccurate in longer bursts) and a plasma rifle (combining a high firing rate and large damage). The rocket launcher also deals out lots of damage, but the explosion causes blast damage and must be used with care in confined areas or it might prove deadly to the player as well as the enemies. Two further (in)famous weapons in DOOM are the chainsaw for close-quarter carnage, and the BFG9000 energy gun, that, while taking some practice to fire correctly, can destroy most enemies in a single burst. The different weapons use four different ammunition types (bullets, shells, rockets and energy cells), so collecting the right type for a certain gun is important.
-
-DOOM drops some of Wolfenstein's arcade-inspired aspects, so there are no extra lives or treasures to be collected for points, but many other powerups are still available. Medpacks heal damage while armor protects from receiving it in the first place. Backpacks allow more ammunition to be carried, a computer map reveals the whole layout of the level on the automap (including any secret areas), light amplification visors illuminate dark areas and radiation suits allow travel over waste without taking damage. Also available are berserk packs (which radically increase the damage inflicted by the fists) as well as short-time invisibility and invulnerability powerups.
-
-The enemies to be destroyed include former humans corrupted during the invasion, plus demons in all shapes and sizes: fireball-throwing imps, floating skulls, pink-skinned demons with powerful bite attacks and large one-eyed flying monstrosities called Cacodemons. Each episode ends with a boss battle against one or two especially powerful creatures.
-
-DOOM popularized multiplayer in the genre with two different modes: Cooperative allows up to four players to move through the single-player game together, while Deathmatch is a competitive game type where players blast at each other to collect 'frag' points for a kill and re-spawn in 
-a random location after being killed.</desc>
-		<favorite>true</favorite>
-		<rating>0.55000</rating>
-		<name>Doom</name>
-	</game>
-	<game source="Recalbox" timestamp="1659465847">
-		<path>Space Invaders (U) [!].zip</path>
-		<hash>4F88525D</hash>
+	<game source="Recalbox" timestamp="1659465500">
+		<path>Q-bert (U).zip</path>
+		<hash>19AD4071</hash>
+		<lastplayed>20220802T005850</lastplayed>
+		<playcount>1</playcount>
 		<region>248</region>
 		<players>1-2</players>
-		<genreid>260</genreid>
-		<genre>Shooter,Shooter / Space Invaders Like,Shoot'em up / Vertical,Shoot'em Up</genre>
+		<genreid>2816</genreid>
+		<genre>Puzzle-Game,Action</genre>
+		<publisher>Ultra Games</publisher>
+		<developer>Konami</developer>
+		<releasedate>19890201T230000</releasedate>
+		<video>media/videos/Qbert c0b2bef382bb2f5e2234f9c8fa19730f.mp4</video>
+		<thumbnail>media/thumbnails/Qbert 624718fde7acee55fc5ad5044d651e99.png</thumbnail>
+		<image>media/images/Qbert 61bc345d2157c677fc41738923dc61cb.png</image>
+		<desc>Q*bert is a conversion of the popular arcade game. The goal is to change all of the tiles on a pyramid to the target color. To do this you guide Q*bert around the pyramid, and every tile he hops on will change color. On early levels, a single hop will change the tile to the desired color, but on later levels you may need to hop on a tile multiple times or even avoid hopping on a tile multiple times! Trying to stop Q*bert are many different creatures which wander around the board, including Coily the snake, Slick and Sam, and falling balls. On the edge of the board are floating discs; if Q*bert jumps on one of these discs when the snake is in pursuit, the snake will fall off  the board while Q*bert is safely transported to the top.</desc>
+		<rating>0.80000</rating>
+		<name>Q*bert</name>
+	</game>
+	<game source="Recalbox" timestamp="1659465866">
+		<path>Super Mario World.zip</path>
+		<hash>82392F0D</hash>
+		<region>11</region>
+		<genreid>257</genreid>
+		<genre>Platform</genre>
+		<publisher>J.Y. Company</publisher>
+		<developer>Hummer Team</developer>
+		<releasedate>19941231T230000</releasedate>
+		<video>media/videos/Super Mario World 54ca2004a518a4c8d8c3662ff0bd4311.mp4</video>
+		<thumbnail>media/thumbnails/Super Mario World 672924cf9428b9a4046e2ac80e4dcb20.png</thumbnail>
+		<image>media/images/Super Mario World 13613d88a9c20d06d1630d3dde5184b2.png</image>
+		<desc>Super Mario World is a bootleg port of the SNES launch title of the same name, developed by Hummer Team and released in 1995. This is one of the more well-known examples of pirate ports to the NES, as it comparatively manages to retain most of the elements that defined the SNES original without sacrificing too much quality.</desc>
+		<rating>0.55000</rating>
+		<name>Super Mario World</name>
+	</game>
+	<game source="Recalbox" timestamp="1659465596">
+		<path>Excitebike (Japan, USA).zip</path>
+		<hash>2BB33C69</hash>
+		<region>248</region>
+		<genreid>1537</genreid>
+		<genre>Race, Driving,Sports</genre>
 		<publisher>Nintendo</publisher>
-		<developer>Taito</developer>
-		<releasedate>19971031T230000</releasedate>
-		<video>media/videos/Space Invaders c237e636fd321370ad90b064918099f5.mp4</video>
-		<thumbnail>media/thumbnails/Space Invaders f977aadd80d2cc9edaf3aa0acaae8c99.png</thumbnail>
-		<image>media/images/Space Invaders 64dc4f1892a32cb382becdefa4dff009.png</image>
-		<desc>A conversion of the classic arcade title, Space Invaders. This version, as part of the Arcade Classic series on Game Boy, has both 1 and 2 player modes using the usual 2 color Game Boy tones (black, grey) to re-create the addictive shooter. However, plug the cart into a Super Game Boy (an accessory of the Super Nintendo) and you have the option of playing the game in full color, with the original arcade cabinet as border art to the action while you play.
+		<developer>Nintendo</developer>
+		<releasedate>19851017T230000</releasedate>
+		<video>media/videos/Excitebike b28df5031cf9d6b2a9ca24be0ae23e59.mp4</video>
+		<thumbnail>media/thumbnails/Excitebike 422ed50d8f182078631f895bc2de87b2.png</thumbnail>
+		<image>media/images/Excitebike ba90e1a7c672550f1fdd8c6689c839b7.png</image>
+		<desc>Race by yourself against the clock or compete with other motocross riders on 5 tracks full of long straights, large jumps and obstacles to win the Excitebike championship.
 
-The game is very simple to play. Shoot down the incoming invaders while dodging their fire. They will advance slowly at first towards you, but the closer they come, the faster they get.</desc>
-		<rating>0.60000</rating>
-		<name>Space Invaders</name>
+Create your own tracks by placing jumps and obstacles of all different sizes and shapes on the track and choosing how many laps each race will have, then race against the clock or other riders to see how your track fares in competition.</desc>
+		<rating>0.70000</rating>
+		<name>Excitebike</name>
 	</game>
 </gameList>

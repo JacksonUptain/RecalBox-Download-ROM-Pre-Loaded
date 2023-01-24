@@ -1,24 +1,23 @@
 =======================================================================
-# RECALBOX: Système Super Nintendo Entertainment System (Console de Salon)
+# RECALBOX: Système Nintendo Entertainment System (Console de Salon)
 =======================================================================
 
-Copiez vos roms Super Nintendo Entertainment System ici.
-Les extensions supportées sont: .bs .sfc .fig .zip .gd3 .7z .swc .gd7 .dx2 .st .bsx .smc
+Copiez vos roms Nintendo Entertainment System ici.
+Les extensions supportées sont: .unf .nes .zip .7z .unif
 
-Ce système peut être émulé par 7 émulateurs differents.
+Ce système peut être émulé par 6 émulateurs differents.
 Ces emulateurs sont listés ci dessous par ordre de compatibilité/facilité d'utilisation :
-libretro-snes9x supporte des fichiers de type .smc .sfc .swc .fig .bs .st .7z .zip et est compatible netplay.
-libretro-mesen_s supporte des fichiers de type .smc .sfc .swc .fig .bs .7z .zip et est compatible netplay.
-libretro-snes9x2010 supporte des fichiers de type .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip et est compatible netplay.
-libretro-snes9x2005 supporte des fichiers de type .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip et est compatible netplay.
-libretro-snes9x2002 supporte des fichiers de type .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip et est compatible netplay.
-libretro-bsnes supporte des fichiers de type .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip et est compatible netplay.
-libretro-bsneshd supporte des fichiers de type .smc .sfc .swc .fig .gd3 .gd7 .dx2 .bsx .7z .zip et est compatible netplay.
+libretro-nestopia supporte des fichiers de type .nes .unf .unif .zip .7z et n'est pas compatible netplay.
+libretro-fceumm supporte des fichiers de type .nes .unf .unif .zip .7z et n'est pas compatible netplay.
+libretro-fceunext supporte des fichiers de type .nes .unf .unif .zip .7z et n'est pas compatible netplay.
+libretro-quicknes supporte des fichiers de type .nes .unf .unif .zip .7z et n'est pas compatible netplay.
+libretro-mesen supporte des fichiers de type .nes .unf .unif .zip .7z et n'est pas compatible netplay.
+libretro-fbneo supporte des fichiers de type .zip .7z et est compatible netplay.
 
 Périphériques supportés :
 - Les manettes sont obligatoires !
 - Un clavier est inutile
-- Une souris est optionelle
+- Une souris est inutile
 
 Ce système supporte également les roms compressées au format .zip/.7z.
 Attention toutefois, il ne s'agit que d'une archive.
@@ -26,4 +25,4 @@ Les fichiers contenus dans les .zip/.7z doivent correspondre aux extensions cit�
 De plus, chaque fichier .zip/.7z ne doit contenir qu'une seule rom compressée.
 
 Consultez la documentation à cette adresse :
-https://wiki.recalbox.com/fr/emulators/consoles/super-nintendo-entertainment-system
+https://wiki.recalbox.com/fr/emulators/consoles/nintendo-entertainment-system
