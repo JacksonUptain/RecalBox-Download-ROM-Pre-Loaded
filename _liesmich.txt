@@ -1,16 +1,15 @@
 =======================================================================
-# RECALBOX: System Nintendo 64 (Heimkonsole)
+# RECALBOX: System Game Boy Advance (Handheld)
 =======================================================================
 
-Kopiere deine Nintendo 64 roms hier her.
-Unterstützte Dateierweiterungen sind: .z64 .v64 .zip .7z .n64
+Kopiere deine Game Boy Advance roms hier her.
+Unterstützte Dateierweiterungen sind: .bin .zip .gba .7z
 
-Dieses System kann mit 4 emuliert werden.
+Dieses System kann mit 3 emuliert werden.
 Alle Emulatoren sind im Folgenden in der Reihenfolge ihrer Kompatibilität/Benutzerfreundlichkeit aufgeführt:
-mupen64plus-glide64mk2 unterstüzt .n64 .v64 .z64 und ist NICHT kompatibel mit Netplay.
-libretro-parallel_n64 unterstüzt .n64 .v64 .z64 .zip .7z und ist NICHT kompatibel mit Netplay.
-libretro-mupen64plus_next unterstüzt .n64 .v64 .z64 .zip .7z und ist NICHT kompatibel mit Netplay.
-mupen64plus-rice unterstüzt .n64 .v64 .z64 und ist NICHT kompatibel mit Netplay.
+libretro-mgba unterstüzt .gba .zip .7z und ist NICHT kompatibel mit Netplay.
+libretro-gpsp unterstüzt .gba .bin .zip .7z und ist NICHT kompatibel mit Netplay.
+libretro-meteor unterstüzt .gba .zip .7z und ist NICHT kompatibel mit Netplay.
 
 Geräteanforderungen:
 - Ein Controller ist pflicht

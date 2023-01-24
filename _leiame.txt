@@ -1,16 +1,15 @@
 =======================================================================
-# RECALBOX: Sistema Nintendo 64 (Console caseiro)
+# RECALBOX: Sistema Game Boy Advance (Console portátil)
 =======================================================================
 
-Copie suas roms de Nintendo 64 aqui.
-As extensões suportadas são: .z64 .v64 .zip .7z .n64
+Copie suas roms de Game Boy Advance aqui.
+As extensões suportadas são: .bin .zip .gba .7z
 
-Esse sistema podem ser emulados usando 4 emuladores.
+Esse sistema podem ser emulados usando 3 emuladores.
 Todos os emuladores estão listados abaixo, em ordem de compatibilidade/facilidade de uso:
-mupen64plus-glide64mk2 suporta arquivos de .n64 .v64 .z64 e NÃO é compatível com netplay/jogo em rede.
-libretro-parallel_n64 suporta arquivos de .n64 .v64 .z64 .zip .7z e NÃO é compatível com netplay/jogo em rede.
-libretro-mupen64plus_next suporta arquivos de .n64 .v64 .z64 .zip .7z e NÃO é compatível com netplay/jogo em rede.
-mupen64plus-rice suporta arquivos de .n64 .v64 .z64 e NÃO é compatível com netplay/jogo em rede.
+libretro-mgba suporta arquivos de .gba .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-gpsp suporta arquivos de .gba .bin .zip .7z e NÃO é compatível com netplay/jogo em rede.
+libretro-meteor suporta arquivos de .gba .zip .7z e NÃO é compatível com netplay/jogo em rede.
 
 Dispositivo necessário:
 - Controle é obrigatório
